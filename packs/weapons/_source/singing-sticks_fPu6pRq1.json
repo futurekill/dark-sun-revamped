@@ -5,7 +5,7 @@
   "type": "weapon",
   "img": "modules/dark-sun-revamped/assets/icons/weapons/singing-sticks.svg",
   "system": {
-    "description": "<p>Paired short sticks used in bard fighting styles.</p>",
+    "description": "<p>Paired short sticks used in bard fighting styles.</p><p><strong>Material:</strong> Wood (priced in <strong>Bits</strong>). \u26a0\ufe0f <strong>Automatically breaks</strong> on a natural 1 attack roll.</p>",
     "damage": "1d4+1d4",
     "cost": 5,
     "weight": 2,
@@ -30,7 +30,10 @@
   "flags": {
     "dark-sun-revamped": {
       "source": "dark-sun-weapons",
-      "hands": 2
+      "hands": 2,
+      "material": "wood",
+      "coin_type": "Bits",
+      "break_roll": "auto"
     }
   },
   "ownership": {

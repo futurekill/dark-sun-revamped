@@ -5,7 +5,7 @@
   "type": "armor",
   "img": "modules/dark-sun-revamped/assets/icons/armor/chitin-armor.svg",
   "system": {
-    "description": "<p>Made from the shells of giant insects like kanks. Durable and relatively light.</p>",
+    "description": "<p>Made from the shells of giant insects like kanks. Durable and relatively light.</p><p><strong>Material:</strong> Chitin (priced in <strong>SP</strong>). \ud83c\udfb2 <strong>Breakage:</strong> When struck by a natural 20, roll 1d6 \u2014 breaks on <strong>1\u20132</strong>. Repair cost: 50% of original price.</p>",
     "ac": {
       "value": 6
     },
@@ -27,7 +27,10 @@
   "sort": 0,
   "flags": {
     "dark-sun-revamped": {
-      "source": "dark-sun-armor"
+      "source": "dark-sun-armor",
+      "material": "chitin",
+      "coin_type": "SP",
+      "break_roll": "2"
     }
   },
   "ownership": {

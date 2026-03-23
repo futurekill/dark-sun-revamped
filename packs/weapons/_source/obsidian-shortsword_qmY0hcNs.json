@@ -5,7 +5,7 @@
   "type": "weapon",
   "img": "modules/dark-sun-revamped/assets/icons/weapons/obsidian-shortsword.svg",
   "system": {
-    "description": "<p>Sharp but fragile. Breaks on natural 1 vs. metal armor.</p>",
+    "description": "<p>Sharp but fragile. Breaks on natural 1 vs. metal armor.</p><p><strong>Material:</strong> Obsidian (priced in <strong>SP</strong>). \ud83c\udfb2 <strong>Breakage:</strong> On a natural 1, roll 1d6 \u2014 breaks on <strong>1\u20132</strong>. Repair cost: 50% of original price.</p>",
     "damage": "1d6",
     "cost": 10,
     "weight": 3,
@@ -30,7 +30,10 @@
   "flags": {
     "dark-sun-revamped": {
       "source": "dark-sun-weapons",
-      "hands": 1
+      "hands": 1,
+      "material": "obsidian",
+      "coin_type": "SP",
+      "break_roll": "2"
     }
   },
   "ownership": {

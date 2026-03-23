@@ -5,7 +5,7 @@
   "type": "weapon",
   "img": "modules/dark-sun-revamped/assets/icons/weapons/cahulaks.svg",
   "system": {
-    "description": "<p>Paired four-bladed heads on rope. Can attack two opponents.</p>",
+    "description": "<p>Paired four-bladed heads on rope. Can attack two opponents.</p><p><strong>Material:</strong> Bone (priced in <strong>BP</strong>). \ud83c\udfb2 <strong>Breakage:</strong> On a natural 1, roll 1d6 \u2014 breaks on <strong>1\u20133</strong>. Repair cost: 50% of original price.</p>",
     "damage": "1d4/1d4",
     "cost": 13,
     "weight": 4,
@@ -30,7 +30,10 @@
   "flags": {
     "dark-sun-revamped": {
       "source": "dark-sun-weapons",
-      "hands": 2
+      "hands": 2,
+      "material": "bone",
+      "coin_type": "BP",
+      "break_roll": "3"
     }
   },
   "ownership": {

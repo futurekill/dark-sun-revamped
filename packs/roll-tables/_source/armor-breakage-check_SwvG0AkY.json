@@ -1,0 +1,104 @@
+{
+  "_id": "SwvG0AkYhT7p7DXG",
+  "_key": "!tables!SwvG0AkYhT7p7DXG",
+  "name": "Armor Breakage Check",
+  "img": "icons/dice/d6black.svg",
+  "description": "<p>Roll when a <strong>natural 20</strong> hits you. Compare result to material:</p><ul><li><strong>Leather:</strong> Breaks on 1\u20134</li><li><strong>Hide/Bone:</strong> Breaks on 1\u20133</li><li><strong>Chitin:</strong> Breaks on 1\u20132</li><li><strong>Metal:</strong> Breaks on 1 (also doubles water needs)</li><li><strong>Magical:</strong> Never breaks</li></ul><p>Broken armor may be repaired for 50% of original cost.</p>",
+  "formula": "1d6",
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "jehxV8u6cfPCv1Ph",
+      "type": 0,
+      "text": "\ud83d\udc80 <strong>BREAKS</strong> \u2014 Armor is destroyed. Repair for 50% of original cost.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jGZvCsAFsnMAB3y0",
+      "type": 0,
+      "text": "Leather armor: BREAKS. Hide/Bone/Chitin/Metal armor: intact.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OfWAVFECGulqWOib",
+      "type": 0,
+      "text": "Leather/Hide/Bone armor: BREAKS. Chitin/Metal armor: intact.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "N7t8NOkBzUYzZNKp",
+      "type": 0,
+      "text": "Leather armor: BREAKS. All other materials: intact.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ueoPGjxYIN6WivDy",
+      "type": 0,
+      "text": "\u2705 Armor survives \u2014 no breakage.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Bs5db2fpm4vptic5",
+      "type": 0,
+      "text": "\u2705 Armor survives \u2014 no breakage.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    }
+  ],
+  "replacement": true,
+  "sort": 0,
+  "folder": null,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-materials"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

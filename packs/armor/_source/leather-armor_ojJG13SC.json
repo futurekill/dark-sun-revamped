@@ -5,7 +5,7 @@
   "type": "armor",
   "img": "modules/dark-sun-revamped/assets/icons/armor/leather-armor.svg",
   "system": {
-    "description": "<p>Cured leather. The most common armor on Athas.</p>",
+    "description": "<p>Cured leather. The most common armor on Athas.</p><p><strong>Material:</strong> Leather (priced in <strong>Bits</strong>). \ud83c\udfb2 <strong>Breakage:</strong> When struck by a natural 20, roll 1d6 \u2014 breaks on <strong>1\u20134</strong>. Repair cost: 50% of original price.</p>",
     "ac": {
       "value": 7
     },
@@ -27,7 +27,10 @@
   "sort": 0,
   "flags": {
     "dark-sun-revamped": {
-      "source": "dark-sun-armor"
+      "source": "dark-sun-armor",
+      "material": "leather",
+      "coin_type": "Bits",
+      "break_roll": "4"
     }
   },
   "ownership": {

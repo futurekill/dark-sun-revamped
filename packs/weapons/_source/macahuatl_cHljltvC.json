@@ -5,7 +5,7 @@
   "type": "weapon",
   "img": "modules/dark-sun-revamped/assets/icons/weapons/macahuatl.svg",
   "system": {
-    "description": "<p>Wooden sword with obsidian shards. Breaks on a natural 1.</p>",
+    "description": "<p>Wooden sword with obsidian shards. Breaks on a natural 1.</p><p><strong>Material:</strong> Wood (priced in <strong>Bits</strong>). \u26a0\ufe0f <strong>Automatically breaks</strong> on a natural 1 attack roll.</p>",
     "damage": "1d8",
     "cost": 12,
     "weight": 5,
@@ -30,7 +30,10 @@
   "flags": {
     "dark-sun-revamped": {
       "source": "dark-sun-weapons",
-      "hands": 1
+      "hands": 1,
+      "material": "wood",
+      "coin_type": "Bits",
+      "break_roll": "auto"
     }
   },
   "ownership": {

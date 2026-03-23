@@ -1,0 +1,104 @@
+{
+  "_id": "41AKKx6tocSdTeRs",
+  "_key": "!tables!41AKKx6tocSdTeRs",
+  "name": "Weapon Breakage Check",
+  "img": "icons/dice/d6black.svg",
+  "description": "<p>Roll when a <strong>natural 1</strong> is rolled on an attack. Compare result to material:</p><ul><li><strong>Wood:</strong> Automatically breaks (no roll needed)</li><li><strong>Stone:</strong> Breaks on 1\u20134</li><li><strong>Bone:</strong> Breaks on 1\u20133</li><li><strong>Obsidian/Chitin/Crystal:</strong> Breaks on 1\u20132</li><li><strong>Metal:</strong> Breaks on 1</li><li><strong>Magical:</strong> Never breaks</li></ul><p>Broken weapons may be repaired for 50% of original cost.</p>",
+  "formula": "1d6",
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "DfEWKk53fXusm04u",
+      "type": 0,
+      "text": "\ud83d\udc80 <strong>BREAKS</strong> \u2014 Weapon is destroyed. Repair for 50% of original cost.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EdiUV9olrk1MFarG",
+      "type": 0,
+      "text": "Wood/Stone weapon: BREAKS. Bone/Obsidian/Metal weapon: intact.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0S7QYqeFiwSdSodu",
+      "type": 0,
+      "text": "Wood/Stone/Bone weapon: BREAKS. Obsidian/Metal weapon: intact.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fAod4KlRx8xPv3Qg",
+      "type": 0,
+      "text": "Wood/Stone weapon: BREAKS. Bone/Obsidian/Metal weapon: intact.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "k4QtkdNzQcYZzxSR",
+      "type": 0,
+      "text": "\u2705 Weapon survives \u2014 no breakage.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YTQRnYWQzs9Wexeu",
+      "type": 0,
+      "text": "\u2705 Weapon survives \u2014 no breakage.",
+      "img": "icons/dice/d6black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    }
+  ],
+  "replacement": true,
+  "sort": 0,
+  "folder": null,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-materials"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

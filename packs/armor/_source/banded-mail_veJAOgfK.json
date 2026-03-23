@@ -5,7 +5,7 @@
   "type": "armor",
   "img": "modules/dark-sun-revamped/assets/icons/armor/banded-mail.svg",
   "system": {
-    "description": "<p>Bands of bone reinforced with woven cords. Heavy but effective.</p>",
+    "description": "<p>Bands of bone reinforced with woven cords. Heavy but effective.</p><p><strong>Material:</strong> Bone (priced in <strong>BP</strong>). \ud83c\udfb2 <strong>Breakage:</strong> When struck by a natural 20, roll 1d6 \u2014 breaks on <strong>1\u20133</strong>. Repair cost: 50% of original price.</p>",
     "ac": {
       "value": 4
     },
@@ -27,7 +27,10 @@
   "sort": 0,
   "flags": {
     "dark-sun-revamped": {
-      "source": "dark-sun-armor"
+      "source": "dark-sun-armor",
+      "material": "bone",
+      "coin_type": "BP",
+      "break_roll": "3"
     }
   },
   "ownership": {

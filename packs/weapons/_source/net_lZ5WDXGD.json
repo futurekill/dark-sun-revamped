@@ -5,7 +5,7 @@
   "type": "weapon",
   "img": "modules/dark-sun-revamped/assets/icons/weapons/net.svg",
   "system": {
-    "description": "<p>Entangles target on hit. Target is helpless unless they escape (STR check).</p>",
+    "description": "<p>Entangles target on hit. Target is helpless unless they escape (STR check).</p><p><strong>Material:</strong> Wood (priced in <strong>Bits</strong>). \u26a0\ufe0f <strong>Automatically breaks</strong> on a natural 1 attack roll.</p>",
     "damage": "Special",
     "cost": 15,
     "weight": 5,
@@ -30,7 +30,10 @@
   "flags": {
     "dark-sun-revamped": {
       "source": "dark-sun-weapons",
-      "hands": 2
+      "hands": 2,
+      "material": "wood",
+      "coin_type": "Bits",
+      "break_roll": "auto"
     }
   },
   "ownership": {

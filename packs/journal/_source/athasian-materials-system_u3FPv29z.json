@@ -1,0 +1,57 @@
+{
+  "_id": "u3FPv29zlwCYQ8Fx",
+  "_key": "!journal!u3FPv29zlwCYQ8Fx",
+  "name": "Athasian Materials System",
+  "img": null,
+  "pages": [
+    {
+      "_id": "sPUBgZO3SgZwDZTV",
+      "type": "text",
+      "name": "Weapons & Armor Materials",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "\n<h2>Weapon Materials</h2>\n<p>Athas is a metal-poor world. Weapons are priced and sold in the coin type of their material. On a <strong>natural 1</strong> attack roll, roll 1d6 and consult the table below.</p>\n<table>\n  <thead><tr><th>Material</th><th>Coins</th><th>Breaks on 1d6</th></tr></thead>\n  <tbody>\n    <tr><td>Wood</td><td>Bits</td><td>Automatically breaks</td></tr>\n    <tr><td>Stone</td><td>CP</td><td>1\u20134</td></tr>\n    <tr><td>Bone</td><td>BP</td><td>1\u20133</td></tr>\n    <tr><td>Obsidian</td><td>SP</td><td>1\u20132</td></tr>\n    <tr><td>Metal</td><td>GP</td><td>1 (Steel never breaks)</td></tr>\n    <tr><td>Magical</td><td>GP</td><td>Never breaks</td></tr>\n  </tbody>\n</table>\n<h2>Armor Materials</h2>\n<p>When a <strong>natural 20</strong> hits you, roll 1d6 and consult the table below.</p>\n<table>\n  <thead><tr><th>Material</th><th>Armor Type</th><th>Coins</th><th>Breaks on 1d6</th></tr></thead>\n  <tbody>\n    <tr><td>Leather</td><td>Leather, Shield</td><td>Bits</td><td>1\u20134</td></tr>\n    <tr><td>Hide</td><td>Leather</td><td>CP</td><td>1\u20133</td></tr>\n    <tr><td>Bone</td><td>Chainmail equivalent</td><td>BP</td><td>1\u20133</td></tr>\n    <tr><td>Chitin</td><td>Chainmail, Plate, Shield</td><td>SP</td><td>1\u20132</td></tr>\n    <tr><td>Metal</td><td>Plate, Shield</td><td>GP</td><td>1</td></tr>\n    <tr><td>Magical</td><td>Any</td><td>GP</td><td>Never breaks</td></tr>\n  </tbody>\n</table>\n<blockquote><strong>Metal Armor:</strong> Wearing metal armor causes water needs and consumption to double, and imposes penalties from dehydration. Metal shields do not apply this penalty.</blockquote>\n<h2>Masterwork Weapons & Armor</h2>\n<p>A masterwork weapon or armor grants <strong>+1 to all attack rolls and +1 to damage</strong>. Masterwork items cost <strong>double</strong> their base price. Masterwork and magical properties can stack.</p>\n<h2>Repairing Equipment</h2>\n<p>Broken weapons and armor can be repaired for <strong>50% of their original cost</strong>, rounded up.</p>\n<h2>Coin Types on Athas</h2>\n<ul>\n  <li><strong>Bits</strong> \u2014 Fractional ceramic pieces; the cheapest currency</li>\n  <li><strong>CP</strong> \u2014 Ceramic pieces; the standard Athasian coin</li>\n  <li><strong>BP</strong> \u2014 Bronze pieces; mid-tier currency</li>\n  <li><strong>SP</strong> \u2014 Silver pieces; valuable</li>\n  <li><strong>GP</strong> \u2014 Gold pieces; rare and precious</li>\n</ul>\n<p>Characters start with <strong>3d6 \u00d7 10 CP</strong>.</p>\n"
+      },
+      "src": null,
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13",
+        "systemId": "ose",
+        "systemVersion": "1.0.0",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "sort": 0,
+  "folder": null,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-rules"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -5,7 +5,7 @@
   "type": "weapon",
   "img": "modules/dark-sun-revamped/assets/icons/weapons/gythka.svg",
   "system": {
-    "description": "<p>Thri-kreen polearm with blades at both ends. Reach weapon.</p>",
+    "description": "<p>Thri-kreen polearm with blades at both ends. Reach weapon.</p><p><strong>Material:</strong> Bone (priced in <strong>BP</strong>). \ud83c\udfb2 <strong>Breakage:</strong> On a natural 1, roll 1d6 \u2014 breaks on <strong>1\u20133</strong>. Repair cost: 50% of original price.</p>",
     "damage": "1d8",
     "cost": 20,
     "weight": 8,
@@ -30,7 +30,10 @@
   "flags": {
     "dark-sun-revamped": {
       "source": "dark-sun-weapons",
-      "hands": 2
+      "hands": 2,
+      "material": "bone",
+      "coin_type": "BP",
+      "break_roll": "3"
     }
   },
   "ownership": {

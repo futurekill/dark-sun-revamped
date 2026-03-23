@@ -5,7 +5,7 @@
   "type": "weapon",
   "img": "modules/dark-sun-revamped/assets/icons/weapons/stone-axe.svg",
   "system": {
-    "description": "<p>Durable stone head. Can be thrown.</p>",
+    "description": "<p>Durable stone head. Can be thrown.</p><p><strong>Material:</strong> Stone (priced in <strong>CP</strong>). \ud83c\udfb2 <strong>Breakage:</strong> On a natural 1, roll 1d6 \u2014 breaks on <strong>1\u20134</strong>. Repair cost: 50% of original price.</p>",
     "damage": "1d6",
     "cost": 4,
     "weight": 5,
@@ -30,7 +30,10 @@
   "flags": {
     "dark-sun-revamped": {
       "source": "dark-sun-weapons",
-      "hands": 1
+      "hands": 1,
+      "material": "stone",
+      "coin_type": "CP",
+      "break_roll": "4"
     }
   },
   "ownership": {

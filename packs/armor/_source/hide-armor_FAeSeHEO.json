@@ -5,7 +5,7 @@
   "type": "armor",
   "img": "modules/dark-sun-revamped/assets/icons/armor/hide-armor.svg",
   "system": {
-    "description": "<p>Cured animal hides stitched together. Common among wilderness travelers.</p>",
+    "description": "<p>Cured animal hides stitched together. Common among wilderness travelers.</p><p><strong>Material:</strong> Hide (priced in <strong>CP</strong>). \ud83c\udfb2 <strong>Breakage:</strong> When struck by a natural 20, roll 1d6 \u2014 breaks on <strong>1\u20133</strong>. Repair cost: 50% of original price.</p>",
     "ac": {
       "value": 7
     },
@@ -27,7 +27,10 @@
   "sort": 0,
   "flags": {
     "dark-sun-revamped": {
-      "source": "dark-sun-armor"
+      "source": "dark-sun-armor",
+      "material": "hide",
+      "coin_type": "CP",
+      "break_roll": "3"
     }
   },
   "ownership": {

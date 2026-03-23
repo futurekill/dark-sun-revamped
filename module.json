@@ -80,6 +80,18 @@
       "type": "Item",
       "system": "ose",
       "path": "packs/classes"
+    },
+    {
+      "name": "roll-tables",
+      "label": "Dark Sun Roll Tables",
+      "type": "RollTable",
+      "path": "packs/roll-tables"
+    },
+    {
+      "name": "journal",
+      "label": "Dark Sun Journal",
+      "type": "JournalEntry",
+      "path": "packs/journal"
     }
   ],
   "packFolders": [
@@ -106,6 +118,11 @@
           "name": "Characters",
           "sorting": "a",
           "packs": ["classes"]
+        },
+        {
+          "name": "Rules & Reference",
+          "sorting": "a",
+          "packs": ["roll-tables", "journal"]
         }
       ]
     }
