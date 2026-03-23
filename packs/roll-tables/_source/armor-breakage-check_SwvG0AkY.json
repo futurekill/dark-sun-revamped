@@ -3,21 +3,22 @@
   "_key": "!tables!SwvG0AkYhT7p7DXG",
   "name": "Armor Breakage Check",
   "img": "icons/dice/d6black.svg",
-  "description": "<p>Roll when a <strong>natural 20</strong> hits you. Compare result to material:</p><ul><li><strong>Leather:</strong> Breaks on 1\u20134</li><li><strong>Hide/Bone:</strong> Breaks on 1\u20133</li><li><strong>Chitin:</strong> Breaks on 1\u20132</li><li><strong>Metal:</strong> Breaks on 1 (also doubles water needs)</li><li><strong>Magical:</strong> Never breaks</li></ul><p>Broken armor may be repaired for 50% of original cost.</p>",
+  "description": "<p>Roll when a <strong>natural 20</strong> hits you. Compare result to material:</p><ul><li><strong>Leather:</strong> Breaks on 1–4</li><li><strong>Hide/Bone:</strong> Breaks on 1–3</li><li><strong>Chitin:</strong> Breaks on 1–2</li><li><strong>Metal:</strong> Breaks on 1 (also doubles water needs)</li><li><strong>Magical:</strong> Never breaks</li></ul><p>Broken armor may be repaired for 50% of original cost.</p>",
   "formula": "1d6",
   "displayRoll": true,
   "results": [
     {
       "_id": "jehxV8u6cfPCv1Ph",
       "type": 0,
-      "text": "\ud83d\udc80 <strong>BREAKS</strong> \u2014 Armor is destroyed. Repair for 50% of original cost.",
+      "text": "💀 <strong>BREAKS</strong> — Armor is destroyed. Repair for 50% of original cost.",
       "img": "icons/dice/d6black.svg",
       "weight": 1,
       "range": [
         1,
         1
       ],
-      "drawn": false
+      "drawn": false,
+      "_key": "!tables.results!SwvG0AkYhT7p7DXG.jehxV8u6cfPCv1Ph"
     },
     {
       "_id": "jGZvCsAFsnMAB3y0",
@@ -29,7 +30,8 @@
         2,
         2
       ],
-      "drawn": false
+      "drawn": false,
+      "_key": "!tables.results!SwvG0AkYhT7p7DXG.jGZvCsAFsnMAB3y0"
     },
     {
       "_id": "OfWAVFECGulqWOib",
@@ -41,7 +43,8 @@
         3,
         3
       ],
-      "drawn": false
+      "drawn": false,
+      "_key": "!tables.results!SwvG0AkYhT7p7DXG.OfWAVFECGulqWOib"
     },
     {
       "_id": "N7t8NOkBzUYzZNKp",
@@ -53,31 +56,34 @@
         4,
         4
       ],
-      "drawn": false
+      "drawn": false,
+      "_key": "!tables.results!SwvG0AkYhT7p7DXG.N7t8NOkBzUYzZNKp"
     },
     {
       "_id": "ueoPGjxYIN6WivDy",
       "type": 0,
-      "text": "\u2705 Armor survives \u2014 no breakage.",
+      "text": "✅ Armor survives — no breakage.",
       "img": "icons/dice/d6black.svg",
       "weight": 1,
       "range": [
         5,
         5
       ],
-      "drawn": false
+      "drawn": false,
+      "_key": "!tables.results!SwvG0AkYhT7p7DXG.ueoPGjxYIN6WivDy"
     },
     {
       "_id": "Bs5db2fpm4vptic5",
       "type": 0,
-      "text": "\u2705 Armor survives \u2014 no breakage.",
+      "text": "✅ Armor survives — no breakage.",
       "img": "icons/dice/d6black.svg",
       "weight": 1,
       "range": [
         6,
         6
       ],
-      "drawn": false
+      "drawn": false,
+      "_key": "!tables.results!SwvG0AkYhT7p7DXG.Bs5db2fpm4vptic5"
     }
   ],
   "replacement": true,
