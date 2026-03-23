@@ -1,0 +1,40 @@
+{
+  "_id": "RjKh9fqvtAfjF1kj",
+  "_key": "!items!RjKh9fqvtAfjF1kj",
+  "name": "Endure Heat/Cold",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/endure-heat-cold.svg",
+  "system": {
+    "description": "<p>Protects a subject from the effects of extreme cold and heat. Range of Temperatures: -30\u00b0F to 130\u00b0F. For the duration of the spell the effects of temperature are nullified for the target.</p>",
+    "lvl": 1,
+    "duration": "Varies",
+    "range": "Touch",
+    "area": "One creature",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

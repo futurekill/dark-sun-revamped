@@ -1,0 +1,85 @@
+{
+  "_id": "UPy9hNAAYImosTJe",
+  "_key": "!actors!UPy9hNAAYImosTJe",
+  "name": "Inix",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/inix.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 8
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "3+4",
+      "hp": {
+        "value": 16,
+        "max": 16,
+        "min": 0
+      },
+      "thac0": {
+        "value": 15
+      },
+      "attacks": "1 x attack (1d8 by spear or weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "7",
+      "alignment": "Chaotic",
+      "xp": 60,
+      "number": {
+        "appearing": "1d6+1(2d6+2)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: Thought Shield WT: Know Direction, All-Round Vision Powers: 3 Rank: 1st Dive Attack: The Pterrax dives onto its target and bites it, dealing 2d6 extra damage. Pterrans are a race of lizard men who inhabit the Hinterlands near the Ringing Mountains. While most never make it past the mountains, some small clans have made their homes on the desert side, living in the forests and jungles near the"
+    },
+    "description": "<p>The inix is a large lizard midway in size between a horse and an elephant. Athasians use them as beasts of burden.</p><p><strong>Psionics:</strong> Thought Shield WT: Know Direction, All-Round Vision Powers: 3 Rank: 1st Dive Attack: The Pterrax dives onto its target and bites it, dealing 2d6 extra damage. Pterrans are a race of lizard men who inhabit the Hinterlands near the Ringing Mountains. While most never make it past the mountains,</p>",
+    "psionics": {
+      "value": "Thought Shield WT: Know Direction, All-Round Vision Powers: 3 Rank: 1st Dive Attack: The Pterrax dives onto its target and bites it, dealing 2d6 extra damage. Pterrans are a race of lizard men who inhabit the Hinterlands near the Ringing Mountains. While most never make it past the mountains,"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Inix",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2900,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

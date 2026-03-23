@@ -1,0 +1,55 @@
+{
+  "_id": "VSfC5WUnC6rrGUBP",
+  "_key": "!items!VSfC5WUnC6rrGUBP",
+  "name": "Preserver",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/preserver.svg",
+  "system": {
+    "description": "<p>The preserver is a wizard of the old, established school of magic. In the give and take of spell casting, preservers have mastered the balance. A preserver's magical spells are cast in harmony with nature.</p><p><strong>Spell Book:</strong> Magic-users carry spell books containing the formulae for arcane spells. A 1st level magic-user has one spell in their spell book, selected by the referee</p><p><strong>Spell Memorization:</strong> The number of spells they may memorize is determined by the character's experience level</p><p><strong>Preserving Magic:</strong> Preservers have the option to defile when casting spells, but they are only encouraged to defile if doing so is the only option for survival</p><p><strong>Magical Research:</strong> A magic-user of any level may spend time and money on magical research to add new spells to their spell book</p><p><strong>Magic Item Creation:</strong> When a magic-user reaches 9th level, they are able to create magic items</p><p><strong>Preserver Cryptolect:</strong> Preservers know a hidden language of non-verbal signs, queues and symbols used to communicate secretly and cast spells unnoticed with a 60% chance of success</p><p><strong>Apprentices:</strong> The preserver may recruit 1d6 apprentices of levels 1-3 to train as preservers, eventually setting up a veiled alliance</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "INT",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d4",
+      "armor": "None",
+      "weapons": "Daggers and staves only",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2500,
+        5000,
+        10000,
+        20000,
+        40000,
+        80000,
+        150000,
+        300000,
+        450000,
+        600000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

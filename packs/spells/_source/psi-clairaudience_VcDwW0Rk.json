@@ -1,0 +1,40 @@
+{
+  "_id": "VcDwW0Rka9fRviDR",
+  "_key": "!items!VcDwW0Rka9fRviDR",
+  "name": "Psionic: Clairaudience",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/clairaudience.svg",
+  "system": {
+    "description": "<p>Allows the caster to hear clearly up to a certain range in a certain direction. The range of the power is affected by the rank as per the table.</p>",
+    "lvl": 1,
+    "duration": "1 turn per rank",
+    "range": "Special",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_id": "Nql9fMBp6UWhSPzJ",
+  "_key": "!items!Nql9fMBp6UWhSPzJ",
+  "name": "Cleric",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/cleric.svg",
+  "system": {
+    "description": "<p>In Athas, gods do not answer prayers. Instead of gods, clerics worship one of the four elemental planes: Earth, air, fire, or water. Clerics are free-willed priests tending the needs of the local people with their particular talents.</p><p><strong>Holy Symbol:</strong> A cleric must carry a holy symbol</p><p><strong>Spell Casting:</strong> Once a cleric has proven their faith (from 2nd level), the character may pray to receive spells from the sphere of the cosmos and one elemental sphere</p><p><strong>Magic Item Creation:</strong> A cleric of any level may spend time and money on magical research. When a cleric reaches 9th level, they are able to create magic items</p><p><strong>Turn Undead:</strong> Clerics can repel undead monsters and elementals. Turning succeeds if 2d6 roll is higher or equal to the HD threshold. Successful turning results in 2d6 HD of undead affected</p><p><strong>Temple Establishment:</strong> A cleric may establish or build a temple, always outside big settlements, as elemental worship is forbidden by the sorcerer kings</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "WIS",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d8",
+      "armor": "All types",
+      "weapons": "All blunt weapons, plus additional weapons depending on chosen element (air: all missile weapons, earth: all stone weapons, fire: all obsidian weapons, water: all bone weapons)",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        1500,
+        3000,
+        6000,
+        12000,
+        24000,
+        48000,
+        90000,
+        180000,
+        270000,
+        360000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

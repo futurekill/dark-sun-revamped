@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Foundry VTT compiled packs (LevelDB) — track _source/ JSON, not compiled .db files
+packs/*/*.db
+packs/*/CURRENT
+packs/*/LOG
+packs/*/MANIFEST-*
+packs/*/*.ldb
+packs/*/*.log
+
+# Build output
+dist/
+*.zip

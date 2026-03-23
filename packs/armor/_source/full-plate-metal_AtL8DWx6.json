@@ -1,0 +1,50 @@
+{
+  "_id": "AtL8DWx61VaFoIEG",
+  "_key": "!items!AtL8DWx61VaFoIEG",
+  "name": "Full Plate (Metal)",
+  "type": "armor",
+  "img": "modules/dark-sun-revamped/assets/icons/armor/full-plate-metal.svg",
+  "system": {
+    "description": "<p>Extremely rare metal plate armor. A sign of immense wealth and power on Athas.</p>",
+    "ac": {
+      "value": 2
+    },
+    "aac": {
+      "value": 17
+    },
+    "type": "heavy",
+    "cost": {
+      "value": 4000,
+      "unit": "cp"
+    },
+    "weight": 50,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-armor"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

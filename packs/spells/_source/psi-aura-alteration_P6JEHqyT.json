@@ -1,0 +1,40 @@
+{
+  "_id": "P6JEHqyT9dT70INq",
+  "_key": "!items!P6JEHqyT9dT70INq",
+  "name": "Psionic: Aura Alteration",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/aura-alteration.svg",
+  "system": {
+    "description": "<p>This power can be used in two ways: Mask alignment and level - the true alignment and level remain the same but anyone viewing the aura will be fooled. Remove geas or quest - Remove a compulsion or charm effect imprinted on the target's aura (curses, geases, quests, etc.).</p>",
+    "lvl": 1,
+    "duration": "1 hour per rank",
+    "range": "Touch",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

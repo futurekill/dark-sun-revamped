@@ -1,0 +1,85 @@
+{
+  "_id": "lFvY6TBwmhD8WE77",
+  "_key": "!actors!lFvY6TBwmhD8WE77",
+  "name": "Beasthead Giant",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/beasthead-giant.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 5
+      },
+      "aac": {
+        "value": 15
+      },
+      "hd": "10",
+      "hp": {
+        "value": 58,
+        "max": 58,
+        "min": 0
+      },
+      "thac0": {
+        "value": 10
+      },
+      "attacks": "1 x attack (1d6+4 by fist or weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 8,
+        "wand": 9,
+        "paralysis": 10,
+        "breath": 10,
+        "spell": 12
+      },
+      "morale": "7",
+      "alignment": "Chaotic",
+      "xp": 1,
+      "number": {
+        "appearing": "2d6+2(3d6+4)"
+      },
+      "treasure": {
+        "type": "J"
+      },
+      "special": "PSI: WT: Send Thoughts, Know Direction Powers: 3 Psionic Resistance: Only affected by 2nd rank Powers and onwards. Throw Hurl Rocks: When in combat, they can throw rocks that deal 2d10+5 damage, They can do so two times per day. Boulder throwing: Up to 150\u2019 Fortress: in the most heavily vegetated areas on their islands, making their homes in the midst of these brush areas. 37 Highly valued as guar"
+    },
+    "description": "<p>Beasthead giants are the most brutal of all the giant sub-types, with animal-like features that betray their savage nature.</p><p><strong>Psionics:</strong> WT: Send Thoughts, Know Direction Powers: 3 Psionic Resistance: Only affected by 2nd rank Powers and onwards. Throw Hurl Rocks: When in combat, they can throw rocks that deal 2d10+5 damage, They can do so two times per day. Boulder throwing: Up to 150\u2019 Fortress: in the most heavily vegetated are</p>",
+    "psionics": {
+      "value": "WT: Send Thoughts, Know Direction Powers: 3 Psionic Resistance: Only affected by 2nd rank Powers and onwards. Throw Hurl Rocks: When in combat, they can throw rocks that deal 2d10+5 damage, They can do so two times per day. Boulder throwing: Up to 150\u2019 Fortress: in the most heavily vegetated are"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Beasthead Giant",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2300,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

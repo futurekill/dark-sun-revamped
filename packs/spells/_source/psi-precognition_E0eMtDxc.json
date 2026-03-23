@@ -1,0 +1,40 @@
+{
+  "_id": "E0eMtDxcDdmNmBT7",
+  "_key": "!items!E0eMtDxcDdmNmBT7",
+  "name": "Psionic: Precognition",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/precognition.svg",
+  "system": {
+    "description": "<p>The psionic character is able to look into the future and see the most likely result of a plan or decision. Requirement: 3rd Rank. The referee should make the prediction cryptic, vague and/or redundant.</p>",
+    "lvl": 1,
+    "duration": "N/A",
+    "range": "Self",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

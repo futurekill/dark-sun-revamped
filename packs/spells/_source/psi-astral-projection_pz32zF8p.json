@@ -1,0 +1,40 @@
+{
+  "_id": "pz32zF8po2gDHBtS",
+  "_key": "!items!pz32zF8po2gDHBtS",
+  "name": "Psionic: Astral Projection",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/astral-projection.svg",
+  "system": {
+    "description": "<p>This power separates the caster's astral body from their physical one. Physical tether: The astral body is connected to its physical body by a long silver cord that disappears from sight after 10'. The cord is virtually indestructible but if severed the caster dies.</p>",
+    "lvl": 1,
+    "duration": "1 hour per rank",
+    "range": "n/a",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

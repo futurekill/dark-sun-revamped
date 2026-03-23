@@ -1,0 +1,40 @@
+{
+  "_id": "Hm8B8ZH5q9IXb8t3",
+  "_key": "!items!Hm8B8ZH5q9IXb8t3",
+  "name": "Psionic: Expansion",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/expansion.svg",
+  "system": {
+    "description": "<p>Allows the caster to increase their proportions by 50% per round up to four times their original size.</p>",
+    "lvl": 1,
+    "duration": "1 round per rank",
+    "range": "Self",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

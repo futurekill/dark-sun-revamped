@@ -1,0 +1,40 @@
+{
+  "_id": "IJAFbB7I9DGAwkzN",
+  "_key": "!items!IJAFbB7I9DGAwkzN",
+  "name": "Psionic: ESP",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/esp.svg",
+  "system": {
+    "description": "<p>This power grants the caster the ability to perceive and understand the thoughts of other living creatures. Meaning: The psionic character understands the meaning of all thoughts even if they do not share the creature's language.</p>",
+    "lvl": 1,
+    "duration": "1 round per rank",
+    "range": "60'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "DknGmIlEfU2HjsrS",
+  "_key": "!items!DknGmIlEfU2HjsrS",
+  "name": "Chatkcha",
+  "type": "weapon",
+  "img": "modules/dark-sun-revamped/assets/icons/weapons/chatkcha.svg",
+  "system": {
+    "description": "<p>Thri-kreen throwing disc. Returns on a 50% chance.</p>",
+    "damage": "1d6",
+    "cost": {
+      "value": 10,
+      "unit": "cp"
+    },
+    "weight": 1,
+    "melee": false,
+    "missile": true,
+    "slow": false,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

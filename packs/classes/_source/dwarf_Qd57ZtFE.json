@@ -1,0 +1,55 @@
+{
+  "_id": "Qd57ZtFEjlAtWwrr",
+  "_key": "!items!Qd57ZtFEjlAtWwrr",
+  "name": "Dwarf",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/dwarf.svg",
+  "system": {
+    "description": "<p>Dwarves of Athas have the stature of their kindred in other worlds\u2014short, sturdy, and thickly muscled. Most have deep tans from lives spent toiling in the hot sun with wide, callused hands and feet.</p><p><strong>Construction Detection:</strong> Dwarves have a 2-in-6 chance of being able to detect new construction, sliding walls, or sloping passages when searching</p><p><strong>Trap Detection:</strong> Due to their expertise with construction, dwarves have a 2-in-6 chance of detecting non-magical room traps when searching</p><p><strong>Infravision:</strong> Dwarves have infravision to 60'</p><p><strong>Hearing Noises:</strong> Dwarves have a 2-in-6 chance of hearing noises</p><p><strong>Mental Power Resistance:</strong> Because of their stubbornness, dwarves gain a +1 bonus to all saving throws against mental powers</p><p><strong>Focus Quest:</strong> When taking on a minor or major quest, a dwarf can choose to make said quest as his focus, gaining +1 bonus to all saving throws and +2 bonus to all ability checks on related tasks</p><p><strong>Tribal Leadership:</strong> A dwarf has the option of founding his own tribe and settling a region of the tablelands or a neighborhood in a city under a king's sponsorship</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "CON",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d8",
+      "armor": "All types",
+      "weapons": "All small or normal sized weapons (cannot use longbows or two-handed swords)",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2200,
+        4400,
+        8800,
+        17600,
+        35200,
+        70400,
+        132000,
+        264000,
+        396000,
+        528000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_id": "OgMJZJyqV7R4FTsB",
+  "_key": "!items!OgMJZJyqV7R4FTsB",
+  "name": "Half-Elf",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/half-elf.svg",
+  "system": {
+    "description": "<p>It is not at all unusual for children of mixed parentage of humans and elves to be born into the world\u2014the half-elves. A half-elf's life is typically hardened by the intolerance of others.</p><p><strong>Secret Door Detection:</strong> When searching for secret doors, half-elves have a 2-in-6 chance of success</p><p><strong>Animal Bond:</strong> A half-elf can befriend one pet when he reaches 5th level. Must spend one week with the animal, after which the pet will follow the half-elf everywhere and obey simple orders</p><p><strong>Psionic Powers:</strong> Half-elves know a number of psionic powers depending on their level</p><p><strong>Power Activation:</strong> Psionic Powers take effect at the end of the character's round</p><p><strong>Mental Power Resistance:</strong> Can maintain multiple powers at the same time, except for those powers where concentration is required</p><p><strong>Stronghold Leadership:</strong> A half-elf may strive to become a leader among humans and elves, constructing a stronghold either in the name of a human liege or founding a tribe with other elves</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "INT, STR",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d6",
+      "armor": "All types",
+      "weapons": "All types",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2500,
+        5000,
+        10000,
+        20000,
+        40000,
+        80000,
+        150000,
+        300000,
+        450000,
+        600000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

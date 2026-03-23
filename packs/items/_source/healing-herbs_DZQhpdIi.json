@@ -1,0 +1,44 @@
+{
+  "_id": "DZQhpdIihrz2Mr8z",
+  "_key": "!items!DZQhpdIihrz2Mr8z",
+  "name": "Healing Herbs",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/healing-herbs.svg",
+  "system": {
+    "description": "<p>Bundle of medicinal Athasian plants. Restores 1d4 hp when applied (1 hour of treatment).</p>",
+    "cost": {
+      "value": 5,
+      "unit": "cp"
+    },
+    "weight": 0,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "82A7ofbzCYfUDGzb",
+  "_key": "!actors!82A7ofbzCYfUDGzb",
+  "name": "Cistern Fiend",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/cistern-fiend.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 5
+      },
+      "aac": {
+        "value": 15
+      },
+      "hd": "12+7",
+      "hp": {
+        "value": 61,
+        "max": 61,
+        "min": 0
+      },
+      "thac0": {
+        "value": 12
+      },
+      "attacks": "2 x attack (2d10 by tail or bite)",
+      "movement": "6\u2019(120\u2019)",
+      "saves": {
+        "death": 6,
+        "wand": 7,
+        "paralysis": 8,
+        "breath": 8,
+        "spell": 10
+      },
+      "morale": "10",
+      "alignment": "Neutral",
+      "xp": 2,
+      "number": {
+        "appearing": "0(1)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI:Mind Bar, Telekinesis, Kinetic Shield, Thought Shield, Levitation, Astral Projection WT: All-Round Vision, Know Direction, Powers: 10 Rank: 3rd Levitation: Cloud Rays can cast levitation on themselves without restriction. Inertial Barrier: The cloud ray can create a skin-tight psychokinetic barrier around yourself that resists blows, cuts, stabs, and slashes, as well as providing some protecti"
+    },
+    "description": "<p>The cistern fiend appears as a giant, vaguely green but translucent worm with a great mass of coiling pinkish tentacles surrounding a hideous mouth.</p><p><strong>Psionics:</strong> Mind Bar, Telekinesis, Kinetic Shield, Thought Shield, Levitation, Astral Projection WT: All-Round Vision, Know Direction, Powers: 10 Rank: 3rd Levitation: Cloud Rays can cast levitation on themselves without restriction. Inertial Barrier: The cloud ray can create a skin-tight psychokinetic barr</p>",
+    "psionics": {
+      "value": "Mind Bar, Telekinesis, Kinetic Shield, Thought Shield, Levitation, Astral Projection WT: All-Round Vision, Know Direction, Powers: 10 Rank: 3rd Levitation: Cloud Rays can cast levitation on themselves without restriction. Inertial Barrier: The cloud ray can create a skin-tight psychokinetic barr"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Cistern Fiend",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1400,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

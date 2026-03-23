@@ -1,0 +1,44 @@
+{
+  "_id": "WrNIyMDHO1V7ymUf",
+  "_key": "!items!WrNIyMDHO1V7ymUf",
+  "name": "Rations, Trail (1 week)",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/rations-trail-1-week.svg",
+  "system": {
+    "description": "<p>Dried meat, insects, and preserved plants. One week of sustenance.</p>",
+    "cost": {
+      "value": 5,
+      "unit": "cp"
+    },
+    "weight": 14,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "IQWl7CyUjeCpT4Cz",
+  "_key": "!actors!IQWl7CyUjeCpT4Cz",
+  "name": "Erdlu",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/erdlu.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 2
+      },
+      "aac": {
+        "value": 18
+      },
+      "hd": "7",
+      "hp": {
+        "value": 31,
+        "max": 31,
+        "min": 0
+      },
+      "thac0": {
+        "value": 13
+      },
+      "attacks": "2 x attack (1d6+2 by claw)",
+      "movement": "60\u2019",
+      "saves": {
+        "death": 8,
+        "wand": 9,
+        "paralysis": 10,
+        "breath": 10,
+        "spell": 12
+      },
+      "morale": "9",
+      "alignment": "Neutral",
+      "xp": 1,
+      "number": {
+        "appearing": "1d2"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI:Mind Bar, Domination, Hypnosis, Mind Link, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Sight Link, Send Thought Powers: 7 Rank: 2nd Mandible Grapple: The victim must save vs. paralyze or be held by the mandibles for 1d6 rounds. Mind Consumption: When it holds its victim, it uses its antennae to feed from its mind. The victim loses 1d4 points of INT or WIS, if any of those "
+    },
+    "description": "<p>Erdlus are flightless, featherless birds covered with flaky gray to red scales. They weigh as much as 200 pounds and stand up to seven feet tall.</p><p><strong>Psionics:</strong> Mind Bar, Domination, Hypnosis, Mind Link, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Sight Link, Send Thought Powers: 7 Rank: 2nd Mandible Grapple: The victim must save vs. paralyze or be held by the mandibles for 1d6 rounds. Mind Consumption: When it holds its victim, it</p>",
+    "psionics": {
+      "value": "Mind Bar, Domination, Hypnosis, Mind Link, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Sight Link, Send Thought Powers: 7 Rank: 2nd Mandible Grapple: The victim must save vs. paralyze or be held by the mandibles for 1d6 rounds. Mind Consumption: When it holds its victim, it"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Erdlu",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

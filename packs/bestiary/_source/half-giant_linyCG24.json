@@ -1,0 +1,85 @@
+{
+  "_id": "linyCG24h1w5KDmr",
+  "_key": "!actors!linyCG24h1w5KDmr",
+  "name": "Half-Giant",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/half-giant.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 10
+      },
+      "aac": {
+        "value": 10
+      },
+      "hd": "2",
+      "hp": {
+        "value": 8,
+        "max": 8,
+        "min": 0
+      },
+      "thac0": {
+        "value": 19
+      },
+      "attacks": "2 x attack (1d4 by weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 11,
+        "wand": 12,
+        "paralysis": 13,
+        "breath": 14,
+        "spell": 15
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 30,
+      "number": {
+        "appearing": "1d10(3d8)"
+      },
+      "treasure": {
+        "type": "U"
+      },
+      "special": "PSI: Kinetic Leap, Kinetic Shield, Mind Bar, Telekinesis WT: Chameleon Power, Control Sound Powers: 8 Rank 2nd Magic Spells: They are able to cast spells as a 3rd level cleric. Spells Known: Cure Light Wounds, Detect Magic (1st Level), Hold Person (2nd Level). Magic Kleptomania: They tend to always look to steal magic items from others. 41 Megapedes are colossal centipedes which roam the sandy des"
+    },
+    "description": "<p>Half-giants are a race of large humanoids created by sorcerer-kings through magical crossbreeding of giant and human stock.</p><p><strong>Psionics:</strong> Kinetic Leap, Kinetic Shield, Mind Bar, Telekinesis WT: Chameleon Power, Control Sound Powers: 8 Rank 2nd Magic Spells: They are able to cast spells as a 3rd level cleric. Spells Known: Cure Light Wounds, Detect Magic (1st Level), Hold Person (2nd Level). Magic Kleptomania: They tend to always</p>",
+    "psionics": {
+      "value": "Kinetic Leap, Kinetic Shield, Mind Bar, Telekinesis WT: Chameleon Power, Control Sound Powers: 8 Rank 2nd Magic Spells: They are able to cast spells as a 3rd level cleric. Spells Known: Cure Light Wounds, Detect Magic (1st Level), Hold Person (2nd Level). Magic Kleptomania: They tend to always"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Half-Giant",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2600,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

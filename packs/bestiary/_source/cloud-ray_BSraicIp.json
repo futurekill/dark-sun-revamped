@@ -1,0 +1,85 @@
+{
+  "_id": "BSraicIpiWzkoTh2",
+  "_key": "!actors!BSraicIpiWzkoTh2",
+  "name": "Cloud Ray",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/cloud-ray.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 4
+      },
+      "aac": {
+        "value": 15
+      },
+      "hd": "1",
+      "hp": {
+        "value": 4,
+        "max": 4,
+        "min": 0
+      },
+      "thac0": {
+        "value": 19
+      },
+      "attacks": "1 x weapon (1d8 or by weapon)",
+      "movement": "60\u2019(20\u2019)",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "8(10 with leader)",
+      "alignment": "Lawful",
+      "xp": 15,
+      "number": {
+        "appearing": "1d6(5d8)"
+      },
+      "treasure": {
+        "type": "G"
+      },
+      "special": ""
+    },
+    "description": "<p>A massive, flat creature that soars through the skies and clouds of Athas. A cloud ray can be up to 50 feet across.</p>",
+    "psionics": {
+      "value": ""
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Cloud Ray",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1600,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

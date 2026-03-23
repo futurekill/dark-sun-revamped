@@ -1,0 +1,40 @@
+{
+  "_id": "LgVyprt126dpRKsx",
+  "_key": "!items!LgVyprt126dpRKsx",
+  "name": "Charm Animal",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/charm-animal.svg",
+  "system": {
+    "description": "<p>Convinces a beast that you mean it no harm. Caster targets an animal, which then must save vs spell and be charmed on a failure. If the caster or present companions harm the charmed animal, the spell ends.</p>",
+    "lvl": 1,
+    "duration": "Indefinite",
+    "range": "60'",
+    "area": "One animal",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "s9PnEBwinIuQEIwg",
+  "_key": "!items!s9PnEBwinIuQEIwg",
+  "name": "Locate Plant or Animal",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/locate-plant-or-animal.svg",
+  "system": {
+    "description": "<p>The caster can sense the direction (but not distance) of a non-magical, non-sentient plant or animal of a chosen type, identifying them based on species or a specific individual the caster can visualize.</p>",
+    "lvl": 1,
+    "duration": "1 hour",
+    "range": "2 miles",
+    "area": "Varies",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

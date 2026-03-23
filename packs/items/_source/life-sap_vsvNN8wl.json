@@ -1,0 +1,44 @@
+{
+  "_id": "vsvNN8wlvLCDDDxw",
+  "_key": "!items!vsvNN8wlvLCDDDxw",
+  "name": "Life Sap",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/life-sap.svg",
+  "system": {
+    "description": "<p>Rare extract from a Life Tree. Cures disease and neutralizes most Athasian poisons on consumption.</p>",
+    "cost": {
+      "value": 50,
+      "unit": "cp"
+    },
+    "weight": 1,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "ay0efnGFFcL7yq2r",
+  "_key": "!actors!ay0efnGFFcL7yq2r",
+  "name": "Razorwing",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/razorwing.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 5
+      },
+      "aac": {
+        "value": 15
+      },
+      "hd": "2+1",
+      "hp": {
+        "value": 10,
+        "max": 10,
+        "min": 0
+      },
+      "thac0": {
+        "value": 19
+      },
+      "attacks": "1 x attack (1d3 by claws or weapon)",
+      "movement": "40\u2019(120\u2019)",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "6",
+      "alignment": "Chaotic",
+      "xp": 40,
+      "number": {
+        "appearing": "4d4(5d6+5)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: Clairaudience WT: Chameleon Power, All-Round Vision Powers: 3 Rank: 1st Leader: Groups of 15+ are led by a Leader. The leader may have magical items: 5% chance per level for each magic item table. Running: Silt Runners tend to attack by overrunning their opponents, they may run to their targets at 120\u2019 a round up to four times a day. PSI: WT: Detect Life, Chameleon Power Powers: 4 Poison Resi"
+    },
+    "description": "<p>The razorwing is a small-bodied slate blue bat with large, crescent-shaped wings that have razor-sharp leading edges.</p><p><strong>Psionics:</strong> Clairaudience WT: Chameleon Power, All-Round Vision Powers: 3 Rank: 1st Leader: Groups of 15+ are led by a Leader. The leader may have magical items: 5% chance per level for each magic item table. Running: Silt Runners tend to attack by overrunning their opponents, they may run to their targets</p>",
+    "psionics": {
+      "value": "Clairaudience WT: Chameleon Power, All-Round Vision Powers: 3 Rank: 1st Leader: Groups of 15+ are led by a Leader. The leader may have magical items: 5% chance per level for each magic item table. Running: Silt Runners tend to attack by overrunning their opponents, they may run to their targets"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Razorwing",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3400,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "iJikUnpemXuURABN",
+  "_key": "!items!iJikUnpemXuURABN",
+  "name": "Detect Magic",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/detect-magic.svg",
+  "system": {
+    "description": "<p>For the duration, you sense the presence of magic within 30 feet of you. You detect the presence of magic, but not its identity, location, or properties. Variant: Detect Psionics - detects psionic powers.</p>",
+    "lvl": 1,
+    "duration": "Concentration, up to 10 minutes",
+    "range": "Self",
+    "area": "30' radius",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

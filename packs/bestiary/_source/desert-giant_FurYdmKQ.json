@@ -1,0 +1,85 @@
+{
+  "_id": "FurYdmKQBtDK3q78",
+  "_key": "!actors!FurYdmKQBtDK3q78",
+  "name": "Desert Giant",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/desert-giant.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 7
+      },
+      "aac": {
+        "value": 13
+      },
+      "hd": "4",
+      "hp": {
+        "value": 18,
+        "max": 18,
+        "min": 0
+      },
+      "thac0": {
+        "value": 17
+      },
+      "attacks": "1 x attack (1d6+4 by weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 13,
+        "spell": 14
+      },
+      "morale": "7",
+      "alignment": "Varies",
+      "xp": 125,
+      "number": {
+        "appearing": "1d4+1(1d10)"
+      },
+      "treasure": {
+        "type": "O"
+      },
+      "special": "PSI: WT: Cat Fall, Sight Link Powers: 2 Shifting Alignment: Half-giants routinely change their alignments to match whatever situation has most influenced them lately. The gith are a race of grotesque humanoids that appear to be a peculiar mixture of elf and reptile. They tend to organize their society more along the lines of a nomadic hunting clan, going wherever the game takes them."
+    },
+    "description": "<p>Desert giants are humanoid in appearance and inhabit the desert and rocky badlands of Athas.</p><p><strong>Psionics:</strong> WT: Cat Fall, Sight Link Powers: 2 Shifting Alignment: Half-giants routinely change their alignments to match whatever situation has most influenced them lately. The gith are a race of grotesque humanoids that appear to be a peculiar mixture of elf and reptile. They tend to organize their socie</p>",
+    "psionics": {
+      "value": "WT: Cat Fall, Sight Link Powers: 2 Shifting Alignment: Half-giants routinely change their alignments to match whatever situation has most influenced them lately. The gith are a race of grotesque humanoids that appear to be a peculiar mixture of elf and reptile. They tend to organize their socie"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Desert Giant",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2400,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "HfTLKZRcUq4AJMtb",
+  "_key": "!items!HfTLKZRcUq4AJMtb",
+  "name": "Psionic: Crush Life",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/crush-life.svg",
+  "system": {
+    "description": "<p>The Caster chooses a target they can see, the target takes 1d8 per rank psychic damage or half damage after a successful save vs spell.</p>",
+    "lvl": 1,
+    "duration": "N/A",
+    "range": "60'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

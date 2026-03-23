@@ -1,0 +1,40 @@
+{
+  "_id": "TYNDQpDZW46HnsZU",
+  "_key": "!items!TYNDQpDZW46HnsZU",
+  "name": "Psionic: Accelerated Motion",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/accelerated-motion.svg",
+  "system": {
+    "description": "<p>The caster makes a rapid burst of movement, driven by an internal surge of kinetic force. Movement: The caster's movement rate is doubled. Melee attacks: The caster may make multiple melee attacks per round. The number of melee attacks depends on the rank.</p>",
+    "lvl": 1,
+    "duration": "1 round",
+    "range": "n/a",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

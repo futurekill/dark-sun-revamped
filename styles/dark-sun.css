@@ -1,0 +1,84 @@
+/**
+ * Dark Sun Revamped — Foundry VTT Module
+ * Athasian desert-world themed styling
+ *
+ * Palette: scorched sand, obsidian black, bone white, dried-blood red,
+ *          sun-bleached parchment, copper & verdigris accents
+ */
+
+/* ═══ CSS VARIABLES: Athasian Palette ════════════════════════════════════ */
+:root {
+  /* Sand & Parchment */
+  --ds-sand-light:    #E8D5A0;
+  --ds-sand-mid:      #C9A84C;
+  --ds-sand-dark:     #9A6B1E;
+  --ds-parchment:     #F2E8CC;
+
+  /* Obsidian & Stone */
+  --ds-obsidian:      #1A1A1A;
+  --ds-stone-dark:    #2D2D2D;
+  --ds-stone-mid:     #4A4A4A;
+  --ds-stone-light:   #7A7A7A;
+
+  /* Bone & Ivory */
+  --ds-bone-white:    #E8E0CC;
+  --ds-bone-light:    #F5F0E0;
+  --ds-bone-dark:     #C8B89A;
+
+  /* Accent Colors */
+  --ds-blood-red:     #8B1A1A;
+  --ds-blood-dark:    #5C0F0F;
+  --ds-copper:        #8B5E3C;
+  --ds-sun-gold:      #D4A017;
+  --ds-verdigris:     #3A7A5A;
+
+  /* Typography */
+  --ds-font-primary:  'Palatino Linotype', Palatino, Georgia, serif;
+  --ds-font-display:  'Trajan Pro', 'Times New Roman', serif;
+}
+
+/* ═══ GLOBAL BODY THEMING (active when module is loaded) ═════════════════ */
+body.dark-sun-revamped-active {
+  /* Subtle background tint — does not override system defaults */
+}
+
+/* ═══ COMPENDIUM PACK HEADERS ════════════════════════════════════════════ */
+body.dark-sun-revamped-active .compendium-pack[data-pack*="dark-sun-revamped"] .pack-title {
+  color: var(--ds-sand-mid);
+  font-family: var(--ds-font-display);
+  letter-spacing: 0.05em;
+}
+
+/* ═══ ACTOR SHEET THEMING (monsters/creatures) ════════════════════════════ */
+body.dark-sun-revamped-active .ose.sheet.actor[data-module="dark-sun-revamped"] {
+  background: linear-gradient(
+    135deg,
+    var(--ds-parchment) 0%,
+    var(--ds-sand-light) 50%,
+    var(--ds-bone-white) 100%
+  );
+  border: 2px solid var(--ds-sand-dark);
+}
+
+body.dark-sun-revamped-active .ose.sheet.actor[data-module="dark-sun-revamped"] .window-title {
+  color: var(--ds-blood-red);
+  font-family: var(--ds-font-display);
+}
+
+/* ═══ ITEM SHEET THEMING ══════════════════════════════════════════════════ */
+body.dark-sun-revamped-active .ose.sheet.item[data-module="dark-sun-revamped"] {
+  background: var(--ds-parchment);
+  border: 1px solid var(--ds-sand-dark);
+}
+
+/* ═══ CHAT CARDS ═════════════════════════════════════════════════════════ */
+body.dark-sun-revamped-active .chat-card[data-module="dark-sun-revamped"] {
+  border-left: 3px solid var(--ds-blood-red);
+  background: var(--ds-parchment);
+}
+
+body.dark-sun-revamped-active .chat-card[data-module="dark-sun-revamped"] .card-header {
+  background: var(--ds-obsidian);
+  color: var(--ds-sand-mid);
+  font-family: var(--ds-font-display);
+}

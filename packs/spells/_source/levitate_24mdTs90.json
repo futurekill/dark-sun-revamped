@@ -1,0 +1,40 @@
+{
+  "_id": "24mdTs90EeoTRvBX",
+  "_key": "!items!24mdTs90EeoTRvBX",
+  "name": "Levitate",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/levitate.svg",
+  "system": {
+    "description": "<p>One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended for the duration. You can move it up or down each turn by up to 20 feet.</p>",
+    "lvl": 2,
+    "duration": "Concentration, up to 10 minutes",
+    "range": "60'",
+    "area": "One creature or object",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

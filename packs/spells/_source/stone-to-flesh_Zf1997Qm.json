@@ -1,0 +1,40 @@
+{
+  "_id": "Zf1997QmjdiFlELI",
+  "_key": "!items!Zf1997QmjdiFlELI",
+  "name": "Stone to Flesh",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/stone-to-flesh.svg",
+  "system": {
+    "description": "<p>Restores life to a creature that has been turned to stone. If the creature is not willing, it makes a Charisma saving throw, and you have disadvantage on the save if the creature is hostile to you.</p>",
+    "lvl": 6,
+    "duration": "Instantaneous",
+    "range": "120'",
+    "area": "One creature or object",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": true,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

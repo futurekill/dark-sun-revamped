@@ -1,0 +1,85 @@
+{
+  "_id": "TJl6t0HrPGAnvwvi",
+  "_key": "!actors!TJl6t0HrPGAnvwvi",
+  "name": "Plains Giant",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/plains-giant.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 8
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "2",
+      "hp": {
+        "value": 9,
+        "max": 9,
+        "min": 0
+      },
+      "thac0": {
+        "value": 17
+      },
+      "attacks": "1 x attack (1d4+2 by weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "6(8 with leader)",
+      "alignment": "Chaotic",
+      "xp": 30,
+      "number": {
+        "appearing": "2d6(3d6)"
+      },
+      "treasure": {
+        "type": "M"
+      },
+      "special": "PSI: Clairvoyance, Clairaudience, Crush Life, Kinetic Fist, Telekinesis WT: Detect Life, Know Direction Powers: 5 Rank: 1nd Leader: A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have valuable equipment: 5% chance per level. 38 Hej-kin are a race of vile-looking humanoids who inhabit the natural subterranean caverns and tunnels of Athas."
+    },
+    "description": "<p>Plains giants have facial features more refined than other giants. They inhabit the grasslands and scrublands of Athas.</p><p><strong>Psionics:</strong> Clairvoyance, Clairaudience, Crush Life, Kinetic Fist, Telekinesis WT: Detect Life, Know Direction Powers: 5 Rank: 1nd Leader: A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have valuable equipment: 5% chance per level. 38 Hej-kin are a race of vile-looking humanoi</p>",
+    "psionics": {
+      "value": "Clairvoyance, Clairaudience, Crush Life, Kinetic Fist, Telekinesis WT: Detect Life, Know Direction Powers: 5 Rank: 1nd Leader: A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have valuable equipment: 5% chance per level. 38 Hej-kin are a race of vile-looking humanoi"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Plains Giant",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2500,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

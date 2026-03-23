@@ -1,0 +1,85 @@
+{
+  "_id": "1viOHwG4w9zW2oMK",
+  "_key": "!actors!1viOHwG4w9zW2oMK",
+  "name": "Hunting Cactus",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/hunting-cactus.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 6
+      },
+      "aac": {
+        "value": 14
+      },
+      "hd": "6+6",
+      "hp": {
+        "value": 33,
+        "max": 33,
+        "min": 0
+      },
+      "thac0": {
+        "value": 13
+      },
+      "attacks": "4 x claws (1d4+2 by claws)",
+      "movement": "55\u2019",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 13,
+        "spell": 14
+      },
+      "morale": "9",
+      "alignment": "Neutral",
+      "xp": 700,
+      "number": {
+        "appearing": "1(1)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: Levitation, Telekinesis, Kinetic Leap, Thought Shield, Invisibility, Crush Life WT: Life Detection, All-Round Vision, Know Direction Powers: 12 Rank: 3rd Pursuit: Always pursue prey that flees. Favored prey: Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference. Infravision: 90\u2019 Surprise: On a 1\u20134, in woodland or desert, due to camo"
+    },
+    "description": "<p>Hunting cacti stand 3 feet high and have 1d6 long, trailing vines that it uses to hunt and kill prey.</p><p><strong>Psionics:</strong> Levitation, Telekinesis, Kinetic Leap, Thought Shield, Invisibility, Crush Life WT: Life Detection, All-Round Vision, Know Direction Powers: 12 Rank: 3rd Pursuit: Always pursue prey that flees. Favored prey: Often develop a taste for a certain type of meat (this may include humans!), hunting tha</p>",
+    "psionics": {
+      "value": "Levitation, Telekinesis, Kinetic Leap, Thought Shield, Invisibility, Crush Life WT: Life Detection, All-Round Vision, Know Direction Powers: 12 Rank: 3rd Pursuit: Always pursue prey that flees. Favored prey: Often develop a taste for a certain type of meat (this may include humans!), hunting tha"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Hunting Cactus",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "giuAJkBvWHxzXfDD",
+  "_key": "!actors!giuAJkBvWHxzXfDD",
+  "name": "Tarek",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/tarek.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 3
+      },
+      "aac": {
+        "value": 17
+      },
+      "hd": "9",
+      "hp": {
+        "value": 40,
+        "max": 40,
+        "min": 0
+      },
+      "thac0": {
+        "value": 11
+      },
+      "attacks": "1 x attacks (2d6 by fist or weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 8,
+        "wand": 9,
+        "paralysis": 10,
+        "breath": 10,
+        "spell": 12
+      },
+      "morale": "9",
+      "alignment": "Neutral",
+      "xp": 700,
+      "number": {
+        "appearing": "1(1)"
+      },
+      "treasure": {
+        "type": "R"
+      },
+      "special": "PSI:Mind Bar, Telekinesis, Mind Link, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Know Direction, Powers: 8 Rank: 2nd Drain Water: A successful hit by a thrax on an unarmored victim causes 2d6 points of damage, and the victim must save vs. petrification, and on a failure, the victim starts losing water from their body. After 2 rounds in this state, the victim dies dehydrated. "
+    },
+    "description": "<p>Tareks are big, musclebound, and aggressive humanoids. They are difficult to kill \u2014 even fatal blows may not stop them.</p><p><strong>Psionics:</strong> Mind Bar, Telekinesis, Mind Link, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Know Direction, Powers: 8 Rank: 2nd Drain Water: A successful hit by a thrax on an unarmored victim causes 2d6 points of damage, and the victim must save vs. petrification, and on a failure, the vic</p>",
+    "psionics": {
+      "value": "Mind Bar, Telekinesis, Mind Link, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Know Direction, Powers: 8 Rank: 2nd Drain Water: A successful hit by a thrax on an unarmored victim causes 2d6 points of damage, and the victim must save vs. petrification, and on a failure, the vic"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Tarek",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 4100,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

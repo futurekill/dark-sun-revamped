@@ -1,0 +1,85 @@
+{
+  "_id": "e2Gpkjdp8FGPnAUk",
+  "_key": "!actors!e2Gpkjdp8FGPnAUk",
+  "name": "B'rohg",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/b-rohg.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 7
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "5+3",
+      "hp": {
+        "value": 25,
+        "max": 25,
+        "min": 0
+      },
+      "thac0": {
+        "value": 15
+      },
+      "attacks": "4 x weapon (1d8 by fist or weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 12,
+        "spell": 14
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 575,
+      "number": {
+        "appearing": "1d12 (1d12)"
+      },
+      "treasure": {
+        "type": "J"
+      },
+      "special": "PSI: WT: Know Direction, All-Round Vision Powers: 2 Multi-arm Defense: Whenever a B\u2019rogh is not attacking with any pair of hands, it gains -2[+2] AC for each pair. Multi Attacks: B\u2019rogh can attack up to four times, but after their second attack each subsequent attack will get a -2 penalty to their attack roll. \u25cf False appearance: While they remain immobile, cacti seem indistinguishable from other "
+    },
+    "description": "<p>B'rohg are giant, slime-covered humanoids native to the wastes of Athas.</p><p><strong>Psionics:</strong> WT: Know Direction, All-Round Vision Powers: 2 Multi-arm Defense: Whenever a B\u2019rogh is not attacking with any pair of hands, it gains -2[+2] AC for each pair. Multi Attacks: B\u2019rogh can attack up to four times, but after their second attack each subsequent attack will get a -2 penalty to their a</p>",
+    "psionics": {
+      "value": "WT: Know Direction, All-Round Vision Powers: 2 Multi-arm Defense: Whenever a B\u2019rogh is not attacking with any pair of hands, it gains -2[+2] AC for each pair. Multi Attacks: B\u2019rogh can attack up to four times, but after their second attack each subsequent attack will get a -2 penalty to their a"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "B'rohg",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 600,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "FX1pknUKAddSrr2v",
+  "_key": "!items!FX1pknUKAddSrr2v",
+  "name": "Chitin Armor",
+  "type": "armor",
+  "img": "modules/dark-sun-revamped/assets/icons/armor/chitin-armor.svg",
+  "system": {
+    "description": "<p>Made from the shells of giant insects like kanks. Durable and relatively light.</p>",
+    "ac": {
+      "value": 6
+    },
+    "aac": {
+      "value": 13
+    },
+    "type": "medium",
+    "cost": {
+      "value": 50,
+      "unit": "cp"
+    },
+    "weight": 25,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-armor"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "oavbgQu0wSjePnhu",
+  "_key": "!actors!oavbgQu0wSjePnhu",
+  "name": "Pterrax",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/pterrax.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 0
+      },
+      "aac": {
+        "value": 20
+      },
+      "hd": "6",
+      "hp": {
+        "value": 27,
+        "max": 27,
+        "min": 0
+      },
+      "thac0": {
+        "value": 13
+      },
+      "attacks": "2 x attack (1d0 by arm)",
+      "movement": "60\u2019",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 13,
+        "spell": 14
+      },
+      "morale": "9",
+      "alignment": "Chaotic",
+      "xp": 725,
+      "number": {
+        "appearing": "1"
+      },
+      "treasure": {
+        "type": "C"
+      },
+      "special": "Illusion: Twice per day, a Sand Bride can create the Illusion of an Oasis in the desert and take the form of a beautiful man or woman to trick a thirsty traveller. Mundane damage immunity: Can only be harmed by magical attacks. 47 Silt Horror is the name given to a group of predators that dwell in the sea of sand. While they vary in size and color, all of them are characterized by a large number o"
+    },
+    "description": "<p>A large flying reptile that hunts through the skies of Athas. The pterrax dives on its prey from great heights.</p>",
+    "psionics": {
+      "value": ""
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Pterrax",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3200,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

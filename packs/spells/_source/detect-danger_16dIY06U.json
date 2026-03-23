@@ -1,0 +1,40 @@
+{
+  "_id": "16dIY06U338DErcm",
+  "_key": "!items!16dIY06U338DErcm",
+  "name": "Detect Danger",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/detect-danger.svg",
+  "system": {
+    "description": "<p>Reveals hazards present within range. Creatures: Detected 1 round after casting. Objects: Detected 2 rounds after casting. After Scanning: The caster is aware of all potential benign objects, immediate dangers and potential dangers.</p>",
+    "lvl": 1,
+    "duration": "1 round",
+    "range": "20'",
+    "area": "20' radius circle",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

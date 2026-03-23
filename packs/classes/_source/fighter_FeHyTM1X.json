@@ -1,0 +1,55 @@
+{
+  "_id": "FeHyTM1XURbJUlSe",
+  "_key": "!items!FeHyTM1XURbJUlSe",
+  "name": "Fighter",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/fighter.svg",
+  "system": {
+    "description": "<p>A skilled warrior trained for both individual combat and warfare in military formations. On Athas, the fighter is a trained warrior skilled in mass warfare. At higher levels, fighters are experts in individual and formation combat, leadership, and morale.</p><p><strong>Multiple Attacks:</strong> May perform a second attack in the same round a number of times per day equal to twice their level</p><p><strong>Leadership:</strong> After reaching 5th level, fighters gain a +1 bonus to loyalty and morale</p><p><strong>Stronghold:</strong> Any time a fighter wishes (and has sufficient money), he can build a fort or stronghold and control the surrounding lands</p><p><strong>General Title:</strong> A fighter may be granted the title of general, and may lead an army of his own followers</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "STR",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d8",
+      "armor": "Any, including shields",
+      "weapons": "Any",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2000,
+        4000,
+        8000,
+        16000,
+        32000,
+        64000,
+        120000,
+        240000,
+        360000,
+        480000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

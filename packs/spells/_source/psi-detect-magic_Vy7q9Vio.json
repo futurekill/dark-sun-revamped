@@ -1,0 +1,40 @@
+{
+  "_id": "Vy7q9ViobQodE4fe",
+  "_key": "!items!Vy7q9ViobQodE4fe",
+  "name": "Psionic: Detect Magic",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/detect-magic.svg",
+  "system": {
+    "description": "<p>Enchanted objects, areas, or creatures are caused to glow. Both permanent and temporary enchantments are revealed.</p>",
+    "lvl": 1,
+    "duration": "1 turn per rank",
+    "range": "60'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

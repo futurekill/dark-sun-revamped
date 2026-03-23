@@ -1,0 +1,40 @@
+{
+  "_id": "BSC4b8cnYM3HK6yM",
+  "_key": "!items!BSC4b8cnYM3HK6yM",
+  "name": "Speak with Animals",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/speak-with-animals.svg",
+  "system": {
+    "description": "<p>The caster can communicate with animals. The caster is able to ask questions and receive answers and may ask for simple favors. Animals may comply if the request is within their ability to understand and perform.</p>",
+    "lvl": 1,
+    "duration": "1 hour",
+    "range": "60'",
+    "area": "One or more animals",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

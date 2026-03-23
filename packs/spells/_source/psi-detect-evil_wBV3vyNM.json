@@ -1,0 +1,40 @@
+{
+  "_id": "wBV3vyNMnSnSrvif",
+  "_key": "!items!wBV3vyNMnSnSrvif",
+  "name": "Psionic: Detect Evil",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/detect-evil.svg",
+  "system": {
+    "description": "<p>Objects enchanted for evil purposes or living beings with evil intentions are revealed by the aura. Intent only: This power does not grant the ability to read minds, but only grants a general sense of evil intent.</p>",
+    "lvl": 1,
+    "duration": "1 turn per rank",
+    "range": "120'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

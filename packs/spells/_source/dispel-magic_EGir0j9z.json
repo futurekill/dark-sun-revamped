@@ -1,0 +1,40 @@
+{
+  "_id": "EGir0j9zWg48pgYh",
+  "_key": "!items!EGir0j9zWg48pgYh",
+  "name": "Dispel Magic",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/dispel-magic.svg",
+  "system": {
+    "description": "<p>You attempt to dispel magic on a creature or object you can see within range. If the target is a creature, you must make an ability check using your spellcasting ability against a DC of 10 + the spell's level.</p>",
+    "lvl": 3,
+    "duration": "Instantaneous",
+    "range": "120'",
+    "area": "One magic effect or object",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

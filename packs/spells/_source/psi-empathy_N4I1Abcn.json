@@ -1,0 +1,40 @@
+{
+  "_id": "N4I1Abcnp7oAcDBW",
+  "_key": "!items!N4I1Abcnp7oAcDBW",
+  "name": "Psionic: Empathy",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/empathy.svg",
+  "system": {
+    "description": "<p>This power is used to sense the emotions and motives of a mind. If the target is not willing, the target creature must save vs spells or be affected by the power.</p>",
+    "lvl": 1,
+    "duration": "1 round per rank",
+    "range": "60'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

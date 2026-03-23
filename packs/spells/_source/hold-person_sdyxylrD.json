@@ -1,0 +1,40 @@
+{
+  "_id": "sdyxylrDaGnilolD",
+  "_key": "!items!sdyxylrDaGnilolD",
+  "name": "Hold Person",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/hold-person.svg",
+  "system": {
+    "description": "<p>Choose a humanoid that you can see within range. It must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of the target's turns, it can make another Wisdom saving throw, ending the spell on a success.</p>",
+    "lvl": 2,
+    "duration": "Concentration, up to 1 minute",
+    "range": "60'",
+    "area": "One humanoid",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

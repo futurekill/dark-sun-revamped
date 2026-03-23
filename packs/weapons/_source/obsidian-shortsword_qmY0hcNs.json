@@ -1,0 +1,54 @@
+{
+  "_id": "qmY0hcNsiDktZCjp",
+  "_key": "!items!qmY0hcNsiDktZCjp",
+  "name": "Obsidian Shortsword",
+  "type": "weapon",
+  "img": "modules/dark-sun-revamped/assets/icons/weapons/obsidian-shortsword.svg",
+  "system": {
+    "description": "<p>Sharp but fragile. Breaks on natural 1 vs. metal armor.</p>",
+    "damage": "1d6",
+    "cost": {
+      "value": 10,
+      "unit": "cp"
+    },
+    "weight": 3,
+    "melee": true,
+    "missile": false,
+    "slow": false,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 1
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

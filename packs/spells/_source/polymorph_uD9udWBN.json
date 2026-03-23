@@ -1,0 +1,40 @@
+{
+  "_id": "uD9udWBNdmo4xhF7",
+  "_key": "!items!uD9udWBNdmo4xhF7",
+  "name": "Polymorph",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/polymorph.svg",
+  "system": {
+    "description": "<p>A creature you can see within range must make a Wisdom saving throw to avoid the effect. The new form can be any beast whose challenge is equal to or less than the target's level.</p>",
+    "lvl": 4,
+    "duration": "Concentration, up to 1 hour",
+    "range": "60'",
+    "area": "One creature",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

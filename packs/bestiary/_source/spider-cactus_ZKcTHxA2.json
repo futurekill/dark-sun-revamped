@@ -1,0 +1,85 @@
+{
+  "_id": "ZKcTHxA221GAvTcW",
+  "_key": "!actors!ZKcTHxA221GAvTcW",
+  "name": "Spider Cactus",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/spider-cactus.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 6
+      },
+      "aac": {
+        "value": 14
+      },
+      "hd": "4+2",
+      "hp": {
+        "value": 20,
+        "max": 20,
+        "min": 0
+      },
+      "thac0": {
+        "value": 17
+      },
+      "attacks": "3 x claws (1d4 by claws)",
+      "movement": "50\u2019",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 13,
+        "spell": 14
+      },
+      "morale": "7",
+      "alignment": "Neutral",
+      "xp": 375,
+      "number": {
+        "appearing": "1(1d4)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: Domination, ESP, Invisibility WT: Life Detection, All-Round Vision, Know Direction, Life Detection Powers: 10 Rank: 2nd Pursuit: Always pursue prey that flees. Favored prey: Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference. Infravision: 90\u2019 Surprise: On a 1\u20134, in woodland, due to camouflage. 26 Cilops are relentless hunters who"
+    },
+    "description": "<p>Spider cactus patches look like any other patch of common cacti. Victims are often surprised when the cactus begins to move.</p><p><strong>Psionics:</strong> Domination, ESP, Invisibility WT: Life Detection, All-Round Vision, Know Direction, Life Detection Powers: 10 Rank: 2nd Pursuit: Always pursue prey that flees. Favored prey: Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference. Infrav</p>",
+    "psionics": {
+      "value": "Domination, ESP, Invisibility WT: Life Detection, All-Round Vision, Know Direction, Life Detection Powers: 10 Rank: 2nd Pursuit: Always pursue prey that flees. Favored prey: Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference. Infrav"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Spider Cactus",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1100,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

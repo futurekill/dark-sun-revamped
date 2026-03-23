@@ -1,0 +1,40 @@
+{
+  "_id": "CrRQnpWGhMjFMACg",
+  "_key": "!items!CrRQnpWGhMjFMACg",
+  "name": "Conjure Elemental",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/conjure-elemental.svg",
+  "system": {
+    "description": "<p>A 16 Hit Dice elemental a being formed of pure elemental matter is summoned from an elemental plane of the caster's choice (air, earth, fire, water) to do the caster's bidding. Requires a large volume of the appropriate element and concentration.</p>",
+    "lvl": 5,
+    "duration": "Concentration, varies",
+    "range": "60'",
+    "area": "One elemental creature",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

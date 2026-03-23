@@ -1,0 +1,40 @@
+{
+  "_id": "bhfSE3CSRm9dyVqF",
+  "_key": "!items!bhfSE3CSRm9dyVqF",
+  "name": "Psionic: Kinetic Wave",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/kinetic-wave.svg",
+  "system": {
+    "description": "<p>A wave of kinetic force surges from the caster's hand at a single target in range. The target must save vs paralysis or be thrown back by the kinetic force. If the save fails: The target suffers 1d6 damage per rank.</p>",
+    "lvl": 1,
+    "duration": "Instant",
+    "range": "30'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

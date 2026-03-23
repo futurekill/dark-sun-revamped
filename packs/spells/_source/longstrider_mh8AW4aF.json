@@ -1,0 +1,40 @@
+{
+  "_id": "mh8AW4aFGECLHbhc",
+  "_key": "!items!mh8AW4aFGECLHbhc",
+  "name": "Longstrider",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/longstrider.svg",
+  "system": {
+    "description": "<p>This spell increases the caster's movement rate times 2. Exceptions: It has no effect on other modes of movement, such as burrow, climb, fly, or swim. Material Components: A pinch of dirt.</p>",
+    "lvl": 1,
+    "duration": "1 hour",
+    "range": "Touch",
+    "area": "One creature",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

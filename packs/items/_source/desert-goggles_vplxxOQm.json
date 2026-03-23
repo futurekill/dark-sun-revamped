@@ -1,0 +1,44 @@
+{
+  "_id": "vplxxOQm5D9sOt5Z",
+  "_key": "!items!vplxxOQm5D9sOt5Z",
+  "name": "Desert Goggles",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/desert-goggles.svg",
+  "system": {
+    "description": "<p>Narrow-slit bone or shell goggles. Protects eyes from sand and glare. Negates blindness from sandstorms.</p>",
+    "cost": {
+      "value": 10,
+      "unit": "cp"
+    },
+    "weight": 0,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

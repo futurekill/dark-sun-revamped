@@ -1,0 +1,40 @@
+{
+  "_id": "ZH8zzj2Y7OrjfGAK",
+  "_key": "!items!ZH8zzj2Y7OrjfGAK",
+  "name": "Wall of Fire",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/wall-of-fire.svg",
+  "system": {
+    "description": "<p>The wall of fire spell brings forth an immobile, blazing curtain of magical fire. The wall deals 4d4 Fire damage.</p>",
+    "lvl": 4,
+    "duration": "Concentration, varies",
+    "range": "60'",
+    "area": "20-foot square per level or ring",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

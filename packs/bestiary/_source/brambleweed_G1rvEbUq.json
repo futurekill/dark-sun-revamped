@@ -1,0 +1,85 @@
+{
+  "_id": "G1rvEbUqjxKtjsc3",
+  "_key": "!actors!G1rvEbUqjxKtjsc3",
+  "name": "Brambleweed",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/brambleweed.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 8
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "1**",
+      "hp": {
+        "value": 4,
+        "max": 4,
+        "min": 0
+      },
+      "thac0": {
+        "value": 19
+      },
+      "attacks": "d100 x needle (1 damage per needle)",
+      "movement": "0",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "N/A",
+      "alignment": "Neutral",
+      "xp": 15,
+      "number": {
+        "appearing": "100(100)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: Invisibility, Kinetic Shield, Mind Bar, Telekinesis WT: Chameleon Power, Control Sound Powers: 10 Rank 2nd Infravision: 90\u2019 Breath weapon: 10\u2019 long line of acid, 2d10 damage (save versus breath for half). Resistance to non-metal weapons: Only suffer 1 point of damage to non-metal or non-magical weapons. **: Each Hit Die counts for 10 square feet of the plant Plant Needles: Brambleweed does no"
+    },
+    "description": "<p>Brambleweed is a thick, thorny, vine-like plant that grows with incredible speed, creating an almost impassable wall around sources of water in the desert.</p><p><strong>Psionics:</strong> Invisibility, Kinetic Shield, Mind Bar, Telekinesis WT: Chameleon Power, Control Sound Powers: 10 Rank 2nd Infravision: 90\u2019 Breath weapon: 10\u2019 long line of acid, 2d10 damage (save versus breath for half). Resistance to non-metal weapons: Only suffer 1 point of damage to non-metal or non-magical</p>",
+    "psionics": {
+      "value": "Invisibility, Kinetic Shield, Mind Bar, Telekinesis WT: Chameleon Power, Control Sound Powers: 10 Rank 2nd Infravision: 90\u2019 Breath weapon: 10\u2019 long line of acid, 2d10 damage (save versus breath for half). Resistance to non-metal weapons: Only suffer 1 point of damage to non-metal or non-magical"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Brambleweed",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 500,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

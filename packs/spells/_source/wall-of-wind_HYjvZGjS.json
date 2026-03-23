@@ -1,0 +1,40 @@
+{
+  "_id": "HYjvZGjSXl4JubD5",
+  "_key": "!items!HYjvZGjSXl4JubD5",
+  "name": "Wall of Wind",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/wall-of-wind.svg",
+  "system": {
+    "description": "<p>A wall of strong wind rises from the ground. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. The wall deals 3d8 Wind damage.</p>",
+    "lvl": 5,
+    "duration": "Concentration, varies",
+    "range": "60'",
+    "area": "Wall up to 50'x15'x1'",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

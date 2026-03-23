@@ -1,0 +1,85 @@
+{
+  "_id": "QLGI5UXTjykZqGbB",
+  "_key": "!actors!QLGI5UXTjykZqGbB",
+  "name": "Baazrag",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/baazrag.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 4
+      },
+      "aac": {
+        "value": 15
+      },
+      "hd": "1",
+      "hp": {
+        "value": 4,
+        "max": 4,
+        "min": 0
+      },
+      "thac0": {
+        "value": 19
+      },
+      "attacks": "1 x weapon (1d4+2 claws or bite)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 15,
+      "number": {
+        "appearing": "2d10 (4d10)"
+      },
+      "treasure": {
+        "type": "Nil Demihumans who dwell in the most"
+      },
+      "special": "forlorn wastes of Athas. They have a taste for the flesh of intelligent races."
+    },
+    "description": "<p>Two feet long or less omnivore, it is one of the smallest in the stony barren regions. Lives in small caves and tiny crags.</p>",
+    "psionics": {
+      "value": ""
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Baazrag",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 200,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

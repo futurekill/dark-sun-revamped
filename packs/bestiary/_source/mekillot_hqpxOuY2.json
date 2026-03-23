@@ -1,0 +1,85 @@
+{
+  "_id": "hqpxOuY2cVX7WzW0",
+  "_key": "!actors!hqpxOuY2cVX7WzW0",
+  "name": "Mekillot",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/mekillot.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 6
+      },
+      "aac": {
+        "value": 14
+      },
+      "hd": "4",
+      "hp": {
+        "value": 19,
+        "max": 19,
+        "min": 0
+      },
+      "thac0": {
+        "value": 17
+      },
+      "attacks": "3 x attack (2d4 by wings or bite)",
+      "movement": "40\u2019(60\u2019)",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 13,
+        "spell": 14
+      },
+      "morale": "7",
+      "alignment": "Neutral",
+      "xp": 175,
+      "number": {
+        "appearing": "2d4(2d4)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI:WT: Detect Life, Control Sound Powers: 3 Surprise Advantage: +1 to all surprise rolls. Charge Attack: Once per day, they can charge with their wings against an enemy and deal double damage on their next attack. The sand bride is a negative material plane creature trapped on Athas. It uses its powers of illusion to lure victims to a cold death. The sand bride usually creates the illusion of an "
+    },
+    "description": "<p>Mekillots can weigh up to six-tons, with huge, mound-shaped bodies as long as 30 feet. They are used to pull caravan wagons.</p><p><strong>Psionics:</strong> WT: Detect Life, Control Sound Powers: 3 Surprise Advantage: +1 to all surprise rolls. Charge Attack: Once per day, they can charge with their wings against an enemy and deal double damage on their next attack. The sand bride is a negative material plane creature trapped on Athas. It uses its p</p>",
+    "psionics": {
+      "value": "WT: Detect Life, Control Sound Powers: 3 Surprise Advantage: +1 to all surprise rolls. Charge Attack: Once per day, they can charge with their wings against an enemy and deal double damage on their next attack. The sand bride is a negative material plane creature trapped on Athas. It uses its p"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Mekillot",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3100,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "uMryjf5MTl0QcKAr",
+  "_key": "!actors!uMryjf5MTl0QcKAr",
+  "name": "Tohr-Kreen",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/tohr-kreen.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 7
+      },
+      "aac": {
+        "value": 13
+      },
+      "hd": "1",
+      "hp": {
+        "value": 5,
+        "max": 5,
+        "min": 0
+      },
+      "thac0": {
+        "value": 19
+      },
+      "attacks": "1 x attacks (1d4 by bite)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 13,
+        "spell": 14
+      },
+      "morale": "9",
+      "alignment": "Neutral",
+      "xp": 120,
+      "number": {
+        "appearing": "2d6(3d6)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: Telekinesis, Thought Shield, Body Control, Crush Life, Kinetic Wave WT: Detect Life, Control Sound Powers: 9 Rank: 2nd PSI: Mind Bar, Mind Link, Invisibility WT: Chameleon Power, Send Thoughts Powers: 7 Rank: 2nd 54 Floaters are small, aerial, jelly fish that drift above the Sea of Silt. AC 9[11], HD 1/4(1 hp), Att 1 x attacks (1 by sting), Thac0 19[+0] MV 20\u2019(30\u2019)Flying The scourge of the Ta"
+    },
+    "description": "<p>Tohr-kreen are larger, cultured versions of the thri-kreen. They are more civilized and possess greater psionic abilities.</p><p><strong>Psionics:</strong> Telekinesis, Thought Shield, Body Control, Crush Life, Kinetic Wave WT: Detect Life, Control Sound Powers: 9 Rank: 2nd PSI: Mind Bar, Mind Link, Invisibility WT: Chameleon Power, Send Thoughts Powers: 7 Rank: 2nd 54 Floaters are small, aerial, jelly fish that drift above the Sea of Silt. AC</p>",
+    "psionics": {
+      "value": "Telekinesis, Thought Shield, Body Control, Crush Life, Kinetic Wave WT: Detect Life, Control Sound Powers: 9 Rank: 2nd PSI: Mind Bar, Mind Link, Invisibility WT: Chameleon Power, Send Thoughts Powers: 7 Rank: 2nd 54 Floaters are small, aerial, jelly fish that drift above the Sea of Silt. AC"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Tohr-Kreen",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 4300,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

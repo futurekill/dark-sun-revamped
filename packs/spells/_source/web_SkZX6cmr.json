@@ -1,0 +1,40 @@
+{
+  "_id": "SkZX6cmrPKoakFE8",
+  "_key": "!items!SkZX6cmrPKoakFE8",
+  "name": "Web",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/web.svg",
+  "system": {
+    "description": "<p>You conjure a mass of thick, sticky webbing at a point of your choice within range. The web fills a 20-foot cube from that point for the duration.</p>",
+    "lvl": 2,
+    "duration": "Concentration, up to 1 hour",
+    "range": "60'",
+    "area": "Cube 20' on each side",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

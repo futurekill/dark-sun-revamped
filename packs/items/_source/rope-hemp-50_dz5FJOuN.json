@@ -1,0 +1,44 @@
+{
+  "_id": "dz5FJOuNdOxhcgE3",
+  "_key": "!items!dz5FJOuNdOxhcgE3",
+  "name": "Rope, Hemp (50')",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/rope-hemp-50.svg",
+  "system": {
+    "description": "<p>50 feet of twisted plant-fiber rope. Supports up to 300 lbs.</p>",
+    "cost": {
+      "value": 1,
+      "unit": "cp"
+    },
+    "weight": 10,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "DARKSUN": {
+    "ModuleTitle": "Dark Sun Revamped",
+    "Error": {
+      "RequiresOSE": "Dark Sun Revamped requires the Old-School Essentials (OSE) system to be active."
+    },
+    "Pack": {
+      "Bestiary": "Dark Sun Bestiary",
+      "Spells": "Dark Sun Spells & Psionics",
+      "Weapons": "Dark Sun Weapons",
+      "Armor": "Dark Sun Armor",
+      "Items": "Dark Sun Equipment",
+      "Classes": "Dark Sun Classes"
+    },
+    "Settings": {
+      "Title": "Dark Sun Revamped Settings"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "PZAygTTPbY6TFP9n",
+  "_key": "!items!PZAygTTPbY6TFP9n",
+  "name": "Earth Tremor",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/earth-tremor.svg",
+  "system": {
+    "description": "<p>You cause a tremor in the ground within range. Loss of Balance: Each creature other than you in that area must make a save vs breath. On a failed save, affected creatures are knocked prone, dropping any weapons, shields and/or held items.</p>",
+    "lvl": 1,
+    "duration": "Instantaneous",
+    "range": "Touch",
+    "area": "Area around caster",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

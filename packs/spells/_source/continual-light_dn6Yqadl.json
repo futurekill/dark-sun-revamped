@@ -1,0 +1,40 @@
+{
+  "_id": "dn6YqadlhTEJJugb",
+  "_key": "!items!dn6YqadlhTEJJugb",
+  "name": "Continual Light",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/continual-light.svg",
+  "system": {
+    "description": "<p>Creates a permanent light source equivalent to a torch. Can be reversed to Continual Darkness, creating an area of magical darkness.</p>",
+    "lvl": 2,
+    "duration": "Permanent",
+    "range": "120'",
+    "area": "One object or spot",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": true,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

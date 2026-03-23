@@ -1,0 +1,40 @@
+{
+  "_id": "ad9ir7pdsjA1PcRS",
+  "_key": "!items!ad9ir7pdsjA1PcRS",
+  "name": "Fire Trap",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/fire-trap.svg",
+  "system": {
+    "description": "<p>The caster sets up an explosive trap on an item. Size of the trap: 5' x 5' in size. It may be detected and disabled just like any other trap. By stepping on it, the trap explodes. Trap Damage: 1d4+caster level. Material Components: A pouch of powder iron sprinkled on the object.</p>",
+    "lvl": 1,
+    "duration": "Until discharged",
+    "range": "Touch",
+    "area": "5' x 5'",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

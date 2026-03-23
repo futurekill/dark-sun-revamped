@@ -1,0 +1,85 @@
+{
+  "_id": "Xxo8IrGEN0gHGSLE",
+  "_key": "!actors!Xxo8IrGEN0gHGSLE",
+  "name": "Pyreen",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/pyreen.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 8
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "18",
+      "hp": {
+        "value": 80,
+        "max": 80,
+        "min": 0
+      },
+      "thac0": {
+        "value": 7
+      },
+      "attacks": "10 x attack (1d6 by tentacle)",
+      "movement": "60\u2019",
+      "saves": {
+        "death": 2,
+        "wand": 3,
+        "paralysis": 4,
+        "breath": 3,
+        "spell": 6
+      },
+      "morale": "7",
+      "alignment": "Neutral",
+      "xp": 7,
+      "number": {
+        "appearing": "1"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: Thought Shield, Precognition, Domination WT: Create Sound, Sight Link Powers: 6 Rank: 2nd Conscription: Three times per day, a Silt Horror can grab one victim and deal 1d8 damage per every round that it holds it. An open doors check may allow the victim to free itself from the Silt Horror\u2019s hold. Gust of Air: On the rare occasions when a horror is losing a fight, it uses its air jet to escape"
+    },
+    "description": "<p>Pyreens are humanoid, although they can transform into animals. They are powerful psionic beings who work to preserve what little life remains on Athas.</p><p><strong>Psionics:</strong> Thought Shield, Precognition, Domination WT: Create Sound, Sight Link Powers: 6 Rank: 2nd Conscription: Three times per day, a Silt Horror can grab one victim and deal 1d8 damage per every round that it holds it. An open doors check may allow the victim to free itself from the Silt Horror\u2019s hol</p>",
+    "psionics": {
+      "value": "Thought Shield, Precognition, Domination WT: Create Sound, Sight Link Powers: 6 Rank: 2nd Conscription: Three times per day, a Silt Horror can grab one victim and deal 1d8 damage per every round that it holds it. An open doors check may allow the victim to free itself from the Silt Horror\u2019s hol"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Pyreen",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3300,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

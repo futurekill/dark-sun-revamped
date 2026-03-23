@@ -1,0 +1,55 @@
+{
+  "_id": "xO5BmnLuDavJUux9",
+  "_key": "!items!xO5BmnLuDavJUux9",
+  "name": "Gladiator",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/gladiator.svg",
+  "system": {
+    "description": "<p>A specialized warrior trained for combat in the arenas, trained to fight and kill for the enjoyment of others. Gladiators are the slave warriors of the city states, specially trained for brutal physical contests and skilled in diverse forms of hand-to-hand combat.</p><p><strong>Hand-to-Hand Combat:</strong> When unarmed, a gladiator inflicts 1d4 damage, modified by strength</p><p><strong>Attack Bonus:</strong> Gladiators have a +1 bonus to all attack rolls and damage</p><p><strong>Weapon Scavenging:</strong> During combat, a gladiator may spend his round looking for a weapon on the battlefield with a 2-in-6 chance of finding one, gaining +2 damage bonus</p><p><strong>Armor Optimization:</strong> During a 24 hour rest, a gladiator may optimize his armor or shield to gain a +2 permanent bonus to armor class</p><p><strong>Slave Stigma:</strong> All gladiators start as slaves and must pay 20% more than normal prices for services, purchases or hiring of specialists</p><p><strong>Champion:</strong> Attracts a number of up to 50 followers with his reputation and fame, getting the title of champion and commanding them as his own army</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "STR, DEX",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d8",
+      "armor": "Any, including shields",
+      "weapons": "Any",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2500,
+        5000,
+        10000,
+        20000,
+        40000,
+        80000,
+        150000,
+        300000,
+        450000,
+        600000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

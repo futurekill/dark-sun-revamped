@@ -1,0 +1,55 @@
+{
+  "_id": "Fa3yurhn6uhf0zEg",
+  "_key": "!items!Fa3yurhn6uhf0zEg",
+  "name": "Elf",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/elf.svg",
+  "system": {
+    "description": "<p>The dunes and steppes of Athas are home to thousands of tribes of nomadic elves. While each tribe is very different culturally, the elves within them remain a race of long-limbed sprinters given to theft, raiding, and warfare.</p><p><strong>Infravision:</strong> Elves have infravision to 60'</p><p><strong>Enhanced Speed:</strong> Elves are known for their speed and ability to travel great distances on foot. Their movement rate is 180' (Encounter movement rate 60', Overland movement rate 36 miles)</p><p><strong>Speed Bonus in Combat:</strong> If Elves do not spend their entire encounter movement rate in a round, they can move the remaining feet at the end of the round</p><p><strong>Social Penalty:</strong> Elves are generally looked at with distrust by other races, so they have a -1 penalty in loyalty with any race except for elves and half-giants</p><p><strong>Climb Sheer Surfaces:</strong> A roll is required for each 100' to be climbed. If the roll fails, the elf falls at the halfway point</p><p><strong>Open Locks:</strong> Requires thieves' tools. An elf can only try this skill once per lock</p><p><strong>Pick Pockets:</strong> If the victim is above 5th level, the elf's roll is penalized by 5% for every level above 5th</p><p><strong>Tribal Leadership:</strong> An Elf may create a tribe with 2d10 level 1 elves, who wander through the desert living nomadic lives as herders, traders, raiders or bandits</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "DEX",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d6",
+      "armor": "Leather armor and shields",
+      "weapons": "All types",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2500,
+        5000,
+        10000,
+        20000,
+        40000,
+        80000,
+        150000,
+        300000,
+        450000,
+        600000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

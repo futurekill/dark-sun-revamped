@@ -1,0 +1,40 @@
+{
+  "_id": "d1D6xc43bYjev7hV",
+  "_key": "!items!d1D6xc43bYjev7hV",
+  "name": "Psionic: Dimension Walking",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/dimension-walking.svg",
+  "system": {
+    "description": "<p>This power allows the caster to travel long distances by passing through a pocket dimension. They can travel at the rate of 21 miles a turn. Requirement: 3rd Rank.</p>",
+    "lvl": 1,
+    "duration": "1 turn per rank",
+    "range": "N/A",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

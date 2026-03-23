@@ -1,0 +1,44 @@
+{
+  "_id": "ye1FVe8eGcZaGZiQ",
+  "_key": "!items!ye1FVe8eGcZaGZiQ",
+  "name": "Psionic Focus Crystal",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/psionic-focus-crystal.svg",
+  "system": {
+    "description": "<p>A shaped crystal attuned to psionic energy. Grants +1 to psionic attack rolls while held.</p>",
+    "cost": {
+      "value": 100,
+      "unit": "cp"
+    },
+    "weight": 0,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

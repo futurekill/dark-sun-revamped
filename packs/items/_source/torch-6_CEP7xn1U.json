@@ -1,0 +1,44 @@
+{
+  "_id": "CEP7xn1UTkmAHfFE",
+  "_key": "!items!CEP7xn1UTkmAHfFE",
+  "name": "Torch (6)",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/torch-6.svg",
+  "system": {
+    "description": "<p>Six torches providing light for 1 hour each. Made from dried cactus fronds.</p>",
+    "cost": {
+      "value": 1,
+      "unit": "cp"
+    },
+    "weight": 6,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

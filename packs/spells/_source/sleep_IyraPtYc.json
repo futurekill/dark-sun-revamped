@@ -1,0 +1,40 @@
+{
+  "_id": "IyraPtYcC1i9mBUV",
+  "_key": "!items!IyraPtYcC1i9mBUV",
+  "name": "Sleep",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/sleep.svg",
+  "system": {
+    "description": "<p>You send creatures into an unnatural slumber. Roll 5d8; subtract the total from the hit points of creatures in order of lowest to highest. Creatures drop to 0 HP are knocked unconscious.</p>",
+    "lvl": 1,
+    "duration": "1 minute",
+    "range": "90'",
+    "area": "One or more creatures",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "o7c6Ww5DTuZzbmM4",
+  "_key": "!items!o7c6Ww5DTuZzbmM4",
+  "name": "Psionic: Body Control",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/body-control.svg",
+  "system": {
+    "description": "<p>The caster is able to adapt their body to survive in a hostile environment such as fire, water, acid, or poison.</p>",
+    "lvl": 1,
+    "duration": "1 turn per rank",
+    "range": "Self",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "Sj6HCNol6pMp2mfA",
+  "_key": "!actors!Sj6HCNol6pMp2mfA",
+  "name": "Psionic Cat",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/psionic-cat.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 3
+      },
+      "aac": {
+        "value": 17
+      },
+      "hd": "5",
+      "hp": {
+        "value": 27,
+        "max": 27,
+        "min": 0
+      },
+      "thac0": {
+        "value": 15
+      },
+      "attacks": "2 x bite (2d6 by fang)",
+      "movement": "50\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "10",
+      "alignment": "Neutral",
+      "xp": 500,
+      "number": {
+        "appearing": "1d4(1d4)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "The cistern fiend appears as a giant, vaguely green but translucent worm with a great mass of coiling pinkish tentacles surrounding a hideous mouth, it preys near water sources."
+    },
+    "description": "<p>A large feline predator of Athas. Often develop a taste for a certain type of meat, hunting that creature with preference.</p>",
+    "psionics": {
+      "value": ""
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Psionic Cat",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1200,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

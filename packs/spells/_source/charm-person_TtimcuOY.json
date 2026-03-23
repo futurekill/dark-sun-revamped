@@ -1,0 +1,40 @@
+{
+  "_id": "TtimcuOYX4JMtBSc",
+  "_key": "!items!TtimcuOYX4JMtBSc",
+  "name": "Charm Person",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/charm-person.svg",
+  "system": {
+    "description": "<p>One humanoid creature that you can see within range must make a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you damage the charmed creature, it can repeat the saving throw.</p>",
+    "lvl": 1,
+    "duration": "Varies",
+    "range": "120'",
+    "area": "One humanoid",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

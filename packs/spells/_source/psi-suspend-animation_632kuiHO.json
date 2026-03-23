@@ -1,0 +1,40 @@
+{
+  "_id": "632kuiHO1d29Z9OB",
+  "_key": "!items!632kuiHO1d29Z9OB",
+  "name": "Psionic: Suspend Animation",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/suspend-animation.svg",
+  "system": {
+    "description": "<p>Allows the caster to slow their life signs, or the life signs of another willing creature, to the point where they appear to be dead by most inspections. Requirement: 3rd Rank. The caster may choose a time to awake at will.</p>",
+    "lvl": 1,
+    "duration": "Up to 1 week per rank",
+    "range": "Touch",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

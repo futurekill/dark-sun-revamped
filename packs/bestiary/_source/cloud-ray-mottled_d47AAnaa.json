@@ -1,0 +1,85 @@
+{
+  "_id": "d47AAnaa8PR4GM27",
+  "_key": "!actors!d47AAnaa8PR4GM27",
+  "name": "Cloud Ray (Mottled)",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/cloud-ray.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 0
+      },
+      "aac": {
+        "value": 20
+      },
+      "hd": "2+2",
+      "hp": {
+        "value": 10,
+        "max": 10,
+        "min": 0
+      },
+      "thac0": {
+        "value": 19
+      },
+      "attacks": "1 x weapon (1d4+6 by fist or weapon)",
+      "movement": "60\u2019(20\u2019)",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "12",
+      "alignment": "Chaotic",
+      "xp": 25,
+      "number": {
+        "appearing": "1d6(5d8)"
+      },
+      "treasure": {
+        "type": "G"
+      },
+      "special": "PSI: WT: Sight Link, Know Direction Powers: 2 Leader: A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have valuable equipment: 5% chance per level. Focus: When performing tasks related to their quest, they gain +1 to Saves and +2 to attacks. PSI: WT: Sight Link, Know Direction Powers: 2 Mundane damage immunity: Can only be harmed by magical attacks. Rage: It enters a desp"
+    },
+    "description": "<p>A massive, flat creature that soars through the skies and clouds of Athas. A cloud ray can be up to 50 feet across.</p><p><strong>Psionics:</strong> WT: Sight Link, Know Direction Powers: 2 Leader: A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have valuable equipment: 5% chance per level. Focus: When performing tasks related to their quest, they gain +1 to Saves and +2 to attacks. PSI: WT: Sight Link, Know Direc</p>",
+    "psionics": {
+      "value": "WT: Sight Link, Know Direction Powers: 2 Leader: A leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have valuable equipment: 5% chance per level. Focus: When performing tasks related to their quest, they gain +1 to Saves and +2 to attacks. PSI: WT: Sight Link, Know Direc"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Cloud Ray (Mottled)",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1700,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

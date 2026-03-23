@@ -1,0 +1,85 @@
+{
+  "_id": "pvspmSnjFHLfzrZQ",
+  "_key": "!actors!pvspmSnjFHLfzrZQ",
+  "name": "Id Fiend",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/id-fiend.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 3
+      },
+      "aac": {
+        "value": 17
+      },
+      "hd": "11",
+      "hp": {
+        "value": 44,
+        "max": 44,
+        "min": 0
+      },
+      "thac0": {
+        "value": 9
+      },
+      "attacks": "1 x attack (1d6 by tongue)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 6,
+        "wand": 7,
+        "paralysis": 8,
+        "breath": 8,
+        "spell": 10
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 2,
+      "number": {
+        "appearing": "2(1)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: Mind Link, Thought Shield, Reduction, Cell Adjustment WT: All-Round Vision, Chameleon Power Powers: 6 Rank: 2nd Poisonous Bite: Megapedes insert their fangs into their victim, which must save vs poison and receive 3d6 poison damage on a fail. PSI: WT: Know Direction, Control Sound Powers: 2 Swallow: On a natural 20 on their attack roll, the Mekillot may grab its victim with its tongue and pul"
+    },
+    "description": "<p>The id fiend is a psionic predator whose true form is unknown. It manifests as whatever form is most terrifying to its current prey.</p><p><strong>Psionics:</strong> Mind Link, Thought Shield, Reduction, Cell Adjustment WT: All-Round Vision, Chameleon Power Powers: 6 Rank: 2nd Poisonous Bite: Megapedes insert their fangs into their victim, which must save vs poison and receive 3d6 poison damage on a fail. PSI: WT: Know Direction, Control Sound Powers: 2 Sw</p>",
+    "psionics": {
+      "value": "Mind Link, Thought Shield, Reduction, Cell Adjustment WT: All-Round Vision, Chameleon Power Powers: 6 Rank: 2nd Poisonous Bite: Megapedes insert their fangs into their victim, which must save vs poison and receive 3d6 poison damage on a fail. PSI: WT: Know Direction, Control Sound Powers: 2 Sw"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Id Fiend",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2800,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

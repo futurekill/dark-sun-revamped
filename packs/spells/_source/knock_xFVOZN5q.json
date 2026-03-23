@@ -1,0 +1,40 @@
+{
+  "_id": "xFVOZN5qASmAGdXw",
+  "_key": "!items!xFVOZN5qASmAGdXw",
+  "name": "Knock",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/knock.svg",
+  "system": {
+    "description": "<p>Choose an object that you can see within range. The object can be a door, box, trunk, chest, padlock, latch, or anything else that contains a mundane or magical means that prevents it from being opened. The object opens.</p>",
+    "lvl": 2,
+    "duration": "Instantaneous",
+    "range": "60'",
+    "area": "One locked or closed container",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

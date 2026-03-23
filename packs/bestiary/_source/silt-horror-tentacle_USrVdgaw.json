@@ -1,0 +1,85 @@
+{
+  "_id": "USrVdgawV7MpKDe1",
+  "_key": "!actors!USrVdgawV7MpKDe1",
+  "name": "Silt Horror Tentacle",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/silt-horror-tentacle.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 3
+      },
+      "aac": {
+        "value": 17
+      },
+      "hd": "6",
+      "hp": {
+        "value": 27,
+        "max": 27,
+        "min": 0
+      },
+      "thac0": {
+        "value": 15
+      },
+      "attacks": "1 x attack (1d6 by bite)",
+      "movement": "30\u2019(50\u2019)",
+      "saves": {
+        "death": 8,
+        "wand": 9,
+        "paralysis": 10,
+        "breath": 10,
+        "spell": 12
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 1,
+      "number": {
+        "appearing": "1"
+      },
+      "treasure": {
+        "type": "Q"
+      },
+      "special": "PSI: WT: Create Sound, Animate Shadow Powers: 6 Fire Resistance: They receive only half damage from fire based attacks. Paralyzing Bite: They can bite their opponents and secret a strong poison, a failed save vs paralysis causes the victim to be paralyzed for 1d4 days. Life Leeching: It would try to take away its victim to a Lair and start leeching 1d4 CON per day for the duration of its poison. I"
+    },
+    "description": "<p>The individual tentacles of a Silt Horror, capable of independent movement and attack.</p><p><strong>Psionics:</strong> WT: Create Sound, Animate Shadow Powers: 6 Fire Resistance: They receive only half damage from fire based attacks. Paralyzing Bite: They can bite their opponents and secret a strong poison, a failed save vs paralysis causes the victim to be paralyzed for 1d4 days. Life Leeching: It would try to</p>",
+    "psionics": {
+      "value": "WT: Create Sound, Animate Shadow Powers: 6 Fire Resistance: They receive only half damage from fire based attacks. Paralyzing Bite: They can bite their opponents and secret a strong poison, a failed save vs paralysis causes the victim to be paralyzed for 1d4 days. Life Leeching: It would try to"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Silt Horror Tentacle",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3700,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

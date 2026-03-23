@@ -1,0 +1,40 @@
+{
+  "_id": "J1gaYOVU4NmAq81W",
+  "_key": "!items!J1gaYOVU4NmAq81W",
+  "name": "Psionic: Hypnosis",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/hypnosis.svg",
+  "system": {
+    "description": "<p>The psionic character is able to place targets into a trance in which they are very susceptible to suggestion. Target creature must save vs spells to resist the hypnotic suggestion. Number of hit dice affected depends on caster's rank.</p>",
+    "lvl": 1,
+    "duration": "1 round per rank",
+    "range": "30'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "JBH2yHelOM6CAoBX",
+  "_key": "!actors!JBH2yHelOM6CAoBX",
+  "name": "Carru",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/carru.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 5
+      },
+      "aac": {
+        "value": 14
+      },
+      "hd": "1+1*",
+      "hp": {
+        "value": 5,
+        "max": 5,
+        "min": 0
+      },
+      "thac0": {
+        "value": 18
+      },
+      "attacks": "1 x weapon (1d8 by fist or weapon)",
+      "movement": "120\u2019(200\u2019)running",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "6(8 with leader)",
+      "alignment": "Chaotic",
+      "xp": 15,
+      "number": {
+        "appearing": "1d6(2d12)"
+      },
+      "treasure": {
+        "type": "E"
+      },
+      "special": "Erdlus are flightless, featherless birds covered with flaky gray-tored scales. They weigh as much as 200 pounds and stand up to seven feet tall. They are used as mounts and cattle."
+    },
+    "description": "<p>A large herd animal of the Athasian tablelands. Sometimes kept by herders as livestock.</p>",
+    "psionics": {
+      "value": ""
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Carru",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1800,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

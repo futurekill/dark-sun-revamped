@@ -1,0 +1,55 @@
+{
+  "_id": "LDtxjHK32R7mfExA",
+  "_key": "!items!LDtxjHK32R7mfExA",
+  "name": "Mul",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/mul.svg",
+  "system": {
+    "description": "<p>A mul is an incredibly tough crossbreed of a human and dwarf. They retain the height and cunning of their human parents, plus the durability and raw strength of their dwarven heritage. Muls are usually the products of the slave pits and are born sterile.</p><p><strong>Endurance:</strong> With their natural strength and build, a Mul can spend 48 hours without eating, drinking water or sleeping, only needing 8 hours rest after getting fed</p><p><strong>Healing:</strong> Mul recover 1d6 hit points instead of 1d3 hit points when doing a full rest, and if recovering from starvation, they recover 1d10 CON per day</p><p><strong>Carrying Capacity:</strong> If using encumbrance rules, Mul have a maximum load of 3,200 coins they can carry (all effects applicable to encumbrance apply at double the weight)</p><p><strong>Hearing Noises:</strong> Mul have a 2-in-6 chance of hearing noises</p><p><strong>Saving Throw Bonus:</strong> Mul have a bonus of +2 to all of their saving throws</p><p><strong>Morale Bonus:</strong> All of a Mul's retainers and hirelings gain a +1 bonus to loyalty and morale</p><p><strong>Slave Stigma:</strong> Every Mul start as slaves, and even if they are free men, the social stigmas will always haunt him. Must pay 10% more than normal prices</p><p><strong>Tribal Leadership:</strong> A Mul may create a tribe with 2d10 hirelings from a slave background, setting up a camp in the desert and attracting new members</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "STR",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d8",
+      "armor": "All types",
+      "weapons": "All types",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2200,
+        4400,
+        8800,
+        17600,
+        35200,
+        70400,
+        132000,
+        264000,
+        396000,
+        528000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

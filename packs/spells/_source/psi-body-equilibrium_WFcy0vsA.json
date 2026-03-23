@@ -1,0 +1,40 @@
+{
+  "_id": "WFcy0vsAUAWIGMDW",
+  "_key": "!items!WFcy0vsAUAWIGMDW",
+  "name": "Psionic: Body Equilibrium",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/body-equilibrium.svg",
+  "system": {
+    "description": "<p>Allows the caster to adjust their weight so that they may walk on water, quicksand, etc.</p>",
+    "lvl": 1,
+    "duration": "1 turn per rank",
+    "range": "Self",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

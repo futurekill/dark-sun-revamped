@@ -1,0 +1,40 @@
+{
+  "_id": "7V3ESHjVeDZIhAAe",
+  "_key": "!items!7V3ESHjVeDZIhAAe",
+  "name": "Lightning Bolt",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/lightning-bolt.svg",
+  "system": {
+    "description": "<p>A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. 8d6 lightning damage along the line.</p>",
+    "lvl": 3,
+    "duration": "Instantaneous",
+    "range": "Self",
+    "area": "Line 100' long, 5' wide",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

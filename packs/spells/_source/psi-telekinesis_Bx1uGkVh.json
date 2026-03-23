@@ -1,0 +1,40 @@
+{
+  "_id": "Bx1uGkVhon6tdXQe",
+  "_key": "!items!Bx1uGkVhon6tdXQe",
+  "name": "Psionic: Telekinesis",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/telekinesis.svg",
+  "system": {
+    "description": "<p>By concentrating, the psionic character is able to move objects or creatures by the power of thought. The target may be moved up to 30' per round, in whatever direction the psionic character wishes (including vertically). The target may be used as a weapon using it as a ranged attack.</p>",
+    "lvl": 1,
+    "duration": "1 round per rank",
+    "range": "90'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

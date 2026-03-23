@@ -1,0 +1,40 @@
+{
+  "_id": "bgJpOI812BHi3xxN",
+  "_key": "!items!bgJpOI812BHi3xxN",
+  "name": "Psionic: Tower of Iron Will",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/tower-of-iron-will.svg",
+  "system": {
+    "description": "<p>This Power creates a field emanated at a 10' from the psionicist. Each creature inside this field receives the following benefits: Melee Attacks: +2 Bonus Armor Class per rank against melee attacks. Missile Attacks: +3 Bonus Armor Class against missile attacks.</p>",
+    "lvl": 1,
+    "duration": "1 round per rank",
+    "range": "Self",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

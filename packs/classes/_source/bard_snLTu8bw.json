@@ -1,0 +1,55 @@
+{
+  "_id": "snLTu8bw1sfYrkos",
+  "_key": "!items!snLTu8bw1sfYrkos",
+  "name": "Bard",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/bard.svg",
+  "system": {
+    "description": "<p>A member of a bizarre class of entertainers and storytellers prized by the aristocratic city dwellers. Bards are widely accepted as blackmailers, spies, and even assassins who lead double lives while performing their trade.</p><p><strong>Language Learning:</strong> Bards learn new languages as they advance in level. At every even numbered level above 3rd, the player may choose an additional language</p><p><strong>Fascination:</strong> By playing music and singing, the bard can fascinate subjects in a 30' radius. May be used once per day per level. Up to 2 HD of creatures per level of the bard are affected</p><p><strong>Morale Boost:</strong> Song provides +2 bonus to morale, 'to hit' rolls, and damage rolls to other allies while the bard is performing</p><p><strong>Enemy Demoralization:</strong> Same song causes enemies within hearing range to incur a -2 penalty to morale, 'to hit' rolls, and damage rolls</p><p><strong>Charm:</strong> The bard can charm creatures within range with his music</p><p><strong>Manor Establishment:</strong> A bard can establish a manor and attract 2d6 apprentice bards of 1st level to study under the bard's tutelage</p><p><strong>Lore Knowledge:</strong> From 2nd level onwards, a bard has a 2-in-6 chance of knowing lore pertaining to monsters, history, or heroes</p><p><strong>Poison Expertise:</strong> Victims of poisoning by a bard suffer a -2 penalty to the saving throw, increasing with level (+1 for each 4 levels)</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "CHA",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d6",
+      "armor": "Leather armor or chainmail (not plate mail or shields)",
+      "weapons": "All missile weapons and all one-handed melee weapons",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        1500,
+        3000,
+        6000,
+        12000,
+        24000,
+        48000,
+        90000,
+        180000,
+        270000,
+        360000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

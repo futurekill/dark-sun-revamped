@@ -1,0 +1,44 @@
+{
+  "_id": "oZ55xCTWC4vlUlBd",
+  "_key": "!items!oZ55xCTWC4vlUlBd",
+  "name": "Tent, Small (2-person)",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/tent-small-2-person.svg",
+  "system": {
+    "description": "<p>Lightweight hide tent for desert camping. Provides shade and shelter.</p>",
+    "cost": {
+      "value": 10,
+      "unit": "cp"
+    },
+    "weight": 20,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

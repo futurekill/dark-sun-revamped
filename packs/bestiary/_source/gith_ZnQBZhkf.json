@@ -1,0 +1,85 @@
+{
+  "_id": "ZnQBZhkfh9BsbG2a",
+  "_key": "!actors!ZnQBZhkfh9BsbG2a",
+  "name": "Gith",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/gith.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 3
+      },
+      "aac": {
+        "value": 17
+      },
+      "hd": "10",
+      "hp": {
+        "value": 40,
+        "max": 40,
+        "min": 0
+      },
+      "thac0": {
+        "value": 11
+      },
+      "attacks": "5 x attack (1d6 by claw)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 6,
+        "wand": 7,
+        "paralysis": 8,
+        "breath": 8,
+        "spell": 10
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 2,
+      "number": {
+        "appearing": "1d4(1)"
+      },
+      "treasure": {
+        "type": "Nil Mekillots are mighty lizards weighing up"
+      },
+      "special": "to six-tons, with huge, mound-shaped bodies as long as 30 feet. They are used to pull caravan wagons."
+    },
+    "description": "<p>The gith are a race of grotesque humanoids that dwell in the deserts and rocky badlands of Athas.</p>",
+    "psionics": {
+      "value": ""
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Gith",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2700,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

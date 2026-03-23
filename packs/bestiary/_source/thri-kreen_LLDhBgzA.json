@@ -1,0 +1,85 @@
+{
+  "_id": "LLDhBgzANMaCy8b6",
+  "_key": "!actors!LLDhBgzANMaCy8b6",
+  "name": "Thri-Kreen",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/thri-kreen.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 7
+      },
+      "aac": {
+        "value": 13
+      },
+      "hd": "4",
+      "hp": {
+        "value": 19,
+        "max": 19,
+        "min": 0
+      },
+      "thac0": {
+        "value": 11
+      },
+      "attacks": "1 x attacks (1d4 by weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 13,
+        "spell": 14
+      },
+      "morale": "9",
+      "alignment": "Lawful",
+      "xp": 150,
+      "number": {
+        "appearing": "1(1)"
+      },
+      "treasure": {
+        "type": "K"
+      },
+      "special": ""
+    },
+    "description": "<p>Thri-kreen are a race of large, intelligent mantis-like beings. They have four arms and can wield multiple weapons simultaneously.</p>",
+    "psionics": {
+      "value": ""
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Thri-Kreen",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 4200,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

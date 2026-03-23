@@ -1,0 +1,85 @@
+{
+  "_id": "NTC8YxDpO2DfynCZ",
+  "_key": "!actors!NTC8YxDpO2DfynCZ",
+  "name": "B'rohg (Variant)",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/b-rohg.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 8
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "5",
+      "hp": {
+        "value": 22,
+        "max": 22,
+        "min": 0
+      },
+      "thac0": {
+        "value": 15
+      },
+      "attacks": "4-8 x spine (1d3 per appendage)",
+      "movement": "0",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 12,
+        "spell": 14
+      },
+      "morale": "N/A",
+      "alignment": "Neutral",
+      "xp": 575,
+      "number": {
+        "appearing": "0(1)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: WT: Life Detection Underground Plant: It preys from underground, it has 0 [20] AC when its main body is buried, around 6\u2019-8\u2019 underground. 24 Hunting Cactus Hunting cacti stand 3 feet high and have a number of oval shaped pods attached to the main trunk. They rely mostly on their psionic abilities to detect prey."
+    },
+    "description": "<p>B'rohg are giant, slime-covered humanoids native to the wastes of Athas.</p><p><strong>Psionics:</strong> WT: Life Detection Underground Plant: It preys from underground, it has 0 [20] AC when its main body is buried, around 6\u2019-8\u2019 underground. 24 Hunting Cactus Hunting cacti stand 3 feet high and have a number of oval shaped pods attached to the main trunk. They rely mostly on their psionic abil</p>",
+    "psionics": {
+      "value": "WT: Life Detection Underground Plant: It preys from underground, it has 0 [20] AC when its main body is buried, around 6\u2019-8\u2019 underground. 24 Hunting Cactus Hunting cacti stand 3 feet high and have a number of oval shaped pods attached to the main trunk. They rely mostly on their psionic abil"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "B'rohg (Variant)",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 700,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

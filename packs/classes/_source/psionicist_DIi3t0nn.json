@@ -1,0 +1,55 @@
+{
+  "_id": "DIi3t0nnreKuJ6Lq",
+  "_key": "!items!DIi3t0nnreKuJ6Lq",
+  "name": "Psionicist",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/psionicist.svg",
+  "system": {
+    "description": "<p>Psionicists are masters of mind over matter. Rigorous physical and mental training allows them to learn the Way, a philosophy of mental discipline, to become master of the Will, or innate mental power.</p><p><strong>Mental Power Resistance:</strong> Psionicists gain a +2 bonus to all saving throws against mental powers, even the powers of other psionicists</p><p><strong>Psionic Powers:</strong> Psionicists know a number of psionic powers depending on their level</p><p><strong>Power Activation:</strong> Psionic Powers take effect at the end of the character's round. When a psionic character activates a Power, he may not take other actions that round, but may perform other actions while the power is active</p><p><strong>Power Rank:</strong> Psionic Powers are classified by ranks, which determine the intensity of the power's effects</p><p><strong>Multiple Powers:</strong> A psionicist cannot activate more than one power in a single round, but can maintain multiple powers at the same time</p><p><strong>Psionic Academy:</strong> A psionicist may establish a psionic academy where they teach their skills to students, attracting 1d6 apprentices of level 1-4</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "INT, WIS",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d6",
+      "armor": "Leather armor only",
+      "weapons": "Daggers, staves, short swords and shortbows",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2000,
+        4000,
+        8000,
+        16000,
+        32000,
+        64000,
+        120000,
+        240000,
+        360000,
+        480000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

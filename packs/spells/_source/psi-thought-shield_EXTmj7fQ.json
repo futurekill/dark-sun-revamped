@@ -1,0 +1,40 @@
+{
+  "_id": "EXTmj7fQFxOnxtCo",
+  "_key": "!items!EXTmj7fQFxOnxtCo",
+  "name": "Psionic: Thought Shield",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/thought-shield.svg",
+  "system": {
+    "description": "<p>This power has the following effects: Recovery from Charm, Hypnosis or Domination - Removes any instantaneous or permanent effect caused by a psionic power. Psionic Shielding - +6 bonus to saves against mental attacks.</p>",
+    "lvl": 1,
+    "duration": "Up to 2 rounds per rank",
+    "range": "60'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

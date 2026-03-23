@@ -1,0 +1,40 @@
+{
+  "_id": "XFRKvs6iv6Ao0zQg",
+  "_key": "!items!XFRKvs6iv6Ao0zQg",
+  "name": "Invisibility",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/invisibility.svg",
+  "system": {
+    "description": "<p>A creature you touch becomes invisible for the duration. Anything the creature is wearing or carrying is invisible as long as it remains in the creature's possession. The creature becomes visible if it attacks or casts a spell.</p>",
+    "lvl": 2,
+    "duration": "Concentration, up to 1 hour",
+    "range": "Touch",
+    "area": "One creature",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "bz7rFiV6j218ausZ",
+  "_key": "!items!bz7rFiV6j218ausZ",
+  "name": "Shield",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/shield.svg",
+  "system": {
+    "description": "<p>An invisible barrier springs into existence, granting you +4 to AC and immunity to Magic Missile. Does not require concentration.</p>",
+    "lvl": 1,
+    "duration": "1 round",
+    "range": "Self",
+    "area": "Self",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

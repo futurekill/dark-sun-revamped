@@ -1,0 +1,40 @@
+{
+  "_id": "MKqYoU09QuQIgk0g",
+  "_key": "!items!MKqYoU09QuQIgk0g",
+  "name": "Magical Stone",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/magical-stone.svg",
+  "system": {
+    "description": "<p>Enchant up to 3 pebbles with magical energy. Range Attack: The pebbles may be thrown by the caster or companions as a ranged attack. Rock Damage: Each pebble deals 1d4 damage on a hit. Material Components: Up to 3 pebbles.</p>",
+    "lvl": 1,
+    "duration": "Varies",
+    "range": "Touch",
+    "area": "Up to 3 pebbles",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

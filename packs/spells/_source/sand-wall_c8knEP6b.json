@@ -1,0 +1,40 @@
+{
+  "_id": "c8knEP6bDZ7Z69N8",
+  "_key": "!items!c8knEP6bDZ7Z69N8",
+  "name": "Sand Wall",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/sand-wall.svg",
+  "system": {
+    "description": "<p>You create a wall of swirling sand on the ground. It blocks line of sight but not movement. A creature is blinded while in the wall's space and must spend 3 feet of movement for every 1 foot it moves there.</p>",
+    "lvl": 4,
+    "duration": "Varies",
+    "range": "60'",
+    "area": "Wall up to 30'x10'x10'",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

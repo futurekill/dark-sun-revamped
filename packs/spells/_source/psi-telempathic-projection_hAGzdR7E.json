@@ -1,0 +1,40 @@
+{
+  "_id": "hAGzdR7EsSDL4YjY",
+  "_key": "!items!hAGzdR7EsSDL4YjY",
+  "name": "Psionic: Telempathic Projection",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/telempathic-projection.svg",
+  "system": {
+    "description": "<p>The caster is able to project emotions onto targets they can see. This cannot result in extreme changes but can only sway emotions.</p>",
+    "lvl": 1,
+    "duration": "Up to 2 rounds per rank",
+    "range": "Unlimited",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

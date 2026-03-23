@@ -1,0 +1,55 @@
+{
+  "_id": "sH632F6mHBa5jXhl",
+  "_key": "!items!sH632F6mHBa5jXhl",
+  "name": "Ranger",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/ranger.svg",
+  "system": {
+    "description": "<p>Warriors of the wilderness, rangers specialize in hunting the monsters that threaten the edges of civilization. Rangers are knowledgeable in the ways of the wilderness and skilled in surviving the rigors of the wild oases and the brutal stretches of desert.</p><p><strong>Stealth:</strong> In the wilderness, a ranger can hide with a 50% chance of success. In dungeons, 1-in-6 chance. When sneaking up on a target, the target has a -2 penalty in surprise checks</p><p><strong>Survival Skills:</strong> Rangers have the ability of performing survival tasks with a 2-in-6 chance of success, with the exception of hunting, which has a 3-in-6 chance of success</p><p><strong>Tracking:</strong> Rangers can identify and follow tracks, improving this skill as they gain levels</p><p><strong>Surprise Immunity:</strong> Rangers are only surprised on a roll of 1, allowing them to act in the surprise round while companions are surprised</p><p><strong>Pursuit Bonus:</strong> When the ranger's party pursues an opposing group in the wilderness, the chance of evasion is reduced by 10%</p><p><strong>Followers:</strong> 2d12 beings will join the ranger as followers, which may include adventurers, animals, fantastic mounts, or special monsters</p>",
+    "requirements": "None, but must be neutral alignment",
+    "reqs": {
+      "prime": "STR, WIS",
+      "details": "None, but must be neutral alignment"
+    },
+    "class": {
+      "hd": "1d8",
+      "armor": "Leather armor, chainmail, and shields (not plate mail)",
+      "weapons": "Any",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2250,
+        4500,
+        9000,
+        18000,
+        36000,
+        72000,
+        135000,
+        270000,
+        405000,
+        540000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

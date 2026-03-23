@@ -1,0 +1,40 @@
+{
+  "_id": "A20kNReT17EBaDn3",
+  "_key": "!items!A20kNReT17EBaDn3",
+  "name": "Transmute Rock to Mud",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/transmute-rock-to-mud.svg",
+  "system": {
+    "description": "<p>Transforms an area of nonmagical rock into mud. The area becomes difficult terrain. Creatures that end their turn in the mud must succeed on a saving throw or be restrained.</p>",
+    "lvl": 5,
+    "duration": "8 hours",
+    "range": "150'",
+    "area": "40' x 40' x 10' area",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": true,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

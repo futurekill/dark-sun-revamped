@@ -1,0 +1,40 @@
+{
+  "_id": "ELuFZXMBxFYGLi7h",
+  "_key": "!items!ELuFZXMBxFYGLi7h",
+  "name": "Fireball",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/fireball.svg",
+  "system": {
+    "description": "<p>A bright streak flashes from your pointing finger to a point of your choice within range and then blossoms with a low roar into an explosion of flame. Each creature in that area must make a Dexterity saving throw. 8d6 fire damage on a failed save, half as much on a successful one.</p>",
+    "lvl": 3,
+    "duration": "Instantaneous",
+    "range": "150'",
+    "area": "Sphere 20' radius",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

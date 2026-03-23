@@ -1,0 +1,40 @@
+{
+  "_id": "4950JWbpgdziFYKM",
+  "_key": "!items!4950JWbpgdziFYKM",
+  "name": "Feather Fall",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/feather-fall.svg",
+  "system": {
+    "description": "<p>When this spell is cast, the creature(s) or object(s) affected immediately assumes the mass of a piece of down. The rate of falling is instantly changed to 2 feet per second (120 feet per round). No damage is incurred upon landing while the spell is in effect.</p>",
+    "lvl": 1,
+    "duration": "Instantaneous",
+    "range": "60'",
+    "area": "One or more creatures",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

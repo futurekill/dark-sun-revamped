@@ -1,0 +1,40 @@
+{
+  "_id": "jFd3EVTW0EhFsr7L",
+  "_key": "!items!jFd3EVTW0EhFsr7L",
+  "name": "Mirror Image",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/mirror-image.svg",
+  "system": {
+    "description": "<p>Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so that it's impossible to track which image is real.</p>",
+    "lvl": 2,
+    "duration": "1 minute",
+    "range": "Self",
+    "area": "Self",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

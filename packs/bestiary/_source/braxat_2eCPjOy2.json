@@ -1,0 +1,85 @@
+{
+  "_id": "2eCPjOy2YL0Yk6uW",
+  "_key": "!actors!2eCPjOy2YL0Yk6uW",
+  "name": "Braxat",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/braxat.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 0
+      },
+      "aac": {
+        "value": 19
+      },
+      "hd": "10",
+      "hp": {
+        "value": 45,
+        "max": 45,
+        "min": 0
+      },
+      "thac0": {
+        "value": 11
+      },
+      "attacks": "1 x weapon (2d10 by spiked club)",
+      "movement": "45\u2019",
+      "saves": {
+        "death": 6,
+        "wand": 7,
+        "paralysis": 8,
+        "breath": 8,
+        "spell": 10
+      },
+      "morale": "11",
+      "alignment": "Neutral",
+      "xp": 2300,
+      "number": {
+        "appearing": "0 (1d2)"
+      },
+      "treasure": {
+        "type": "V"
+      },
+      "special": "Brambleweed is a thick, thorny, vine-like plant that grows with incredible speed, creating an almost impassable wall around sources of water in the desert."
+    },
+    "description": "<p>Braxat is a huge humanoid of mixed stock, mostly a combination of mammalian and reptilian. They are true terrors of the desert, usually attacking at night in search of fresh meat.</p>",
+    "psionics": {
+      "value": ""
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Braxat",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 400,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "68Ccj7GuFp5Wd3yK",
+  "_key": "!items!68Ccj7GuFp5Wd3yK",
+  "name": "Waterskin (full, 1 day)",
+  "type": "item",
+  "img": "modules/dark-sun-revamped/assets/icons/items/waterskin-full-1-day.svg",
+  "system": {
+    "description": "<p>Holds enough water for one person for one day. Essential for desert travel on Athas.</p>",
+    "cost": {
+      "value": 1,
+      "unit": "cp"
+    },
+    "weight": 5,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "treasure": false,
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-equipment"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

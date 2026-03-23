@@ -1,0 +1,55 @@
+{
+  "_id": "zfbuzWhQvw6HW2lq",
+  "_key": "!items!zfbuzWhQvw6HW2lq",
+  "name": "Thief",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/thief.svg",
+  "system": {
+    "description": "<p>Athasian thieves run the gamut of society, ranging from gutter snipes who prey upon merchants to vagabonds who steal from passing caravans. They are specialists in stealth and pilfering.</p><p><strong>Backstab:</strong> If attacking while sneaking, thieves get a +4 to hit and double damage</p><p><strong>Language Reading:</strong> A thief of 4th level or higher can read non-magical text in any language with 80% probability</p><p><strong>Spell Casting from Scrolls:</strong> A thief of 10th level or higher can cast arcane spells from scrolls with a 10% chance of error and malfunction</p><p><strong>Climb Sheer Surfaces:</strong> A roll is required for each 100' to be climbed. If the roll fails, the thief falls at the halfway point</p><p><strong>Find or Remove Treasure Traps:</strong> A roll is required to find a treasure trap and then another to remove it. May be attempted only once per trap</p><p><strong>Hear Noise:</strong> In a quiet environment, a thief may attempt to listen at a door or to hear approaching sounds</p><p><strong>Hide in Shadows:</strong> Requires the thief to be motionless. Attacking or moving while hiding is not possible</p><p><strong>Move Silently:</strong> A thief may attempt to sneak past enemies unnoticed</p><p><strong>Open Locks:</strong> Requires thieves' tools. A thief can only try this skill once per lock</p><p><strong>Pick Pockets:</strong> If the victim is above 5th level, the thief's roll is penalized by 5% for every level above 5th</p><p><strong>Trading House:</strong> A thief can become a trader and establish a trading house, attracting 2d6 employees of 1st level</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "DEX",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d4",
+      "armor": "Leather armor only (no shields)",
+      "weapons": "Any",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        1250,
+        2500,
+        5000,
+        10000,
+        20000,
+        40000,
+        75000,
+        150000,
+        225000,
+        300000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

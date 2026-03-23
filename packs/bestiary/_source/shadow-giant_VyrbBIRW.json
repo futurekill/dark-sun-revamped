@@ -1,0 +1,85 @@
+{
+  "_id": "VyrbBIRWaP5wSl5k",
+  "_key": "!actors!VyrbBIRWaP5wSl5k",
+  "name": "Shadow Giant",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/shadow-giant.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 4
+      },
+      "aac": {
+        "value": 16
+      },
+      "hd": "13",
+      "hp": {
+        "value": 58,
+        "max": 58,
+        "min": 0
+      },
+      "thac0": {
+        "value": 7
+      },
+      "attacks": "1 x attack (1d8+4 by fist or weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 8,
+        "wand": 9,
+        "paralysis": 10,
+        "breath": 10,
+        "spell": 12
+      },
+      "morale": "8",
+      "alignment": "Neutral",
+      "xp": 1,
+      "number": {
+        "appearing": "2d6(3d6)"
+      },
+      "treasure": {
+        "type": "J"
+      },
+      "special": "PSI: WT: Detect Life, Know Direction Powers: 3 Psionic Resistance: Only affected by 2nd rank Powers and onwards. Throw Hurl Rocks: When in combat, they can throw rocks that deal 2d10+5 damage, They can do so three times per day. Boulder throwing: Up to 200\u2019 Fortress: On desert islands. This climate is nearly identical to the deserts of Athas, save that these islands are surrounded by the Sea of Si"
+    },
+    "description": "<p>The Giants of Athas are huge, lumbering creatures who commonly inhabit the islands of the Sea of Silt.</p><p><strong>Psionics:</strong> WT: Detect Life, Know Direction Powers: 3 Psionic Resistance: Only affected by 2nd rank Powers and onwards. Throw Hurl Rocks: When in combat, they can throw rocks that deal 2d10+5 damage, They can do so three times per day. Boulder throwing: Up to 200\u2019 Fortress: On desert islands. This climate i</p>",
+    "psionics": {
+      "value": "WT: Detect Life, Know Direction Powers: 3 Psionic Resistance: Only affected by 2nd rank Powers and onwards. Throw Hurl Rocks: When in combat, they can throw rocks that deal 2d10+5 damage, They can do so three times per day. Boulder throwing: Up to 200\u2019 Fortress: On desert islands. This climate i"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Shadow Giant",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2200,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

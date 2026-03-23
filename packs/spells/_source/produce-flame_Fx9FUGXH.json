@@ -1,0 +1,40 @@
+{
+  "_id": "Fx9FUGXHuflsn6ba",
+  "_key": "!items!Fx9FUGXHuflsn6ba",
+  "name": "Produce Flame",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/produce-flame.svg",
+  "system": {
+    "description": "<p>Produces non-magical flame. Can be used to ignite flammable materials or as a torch. Caster can extinguish the flame at will.</p>",
+    "lvl": 1,
+    "duration": "1 hour",
+    "range": "60'",
+    "area": "One target",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

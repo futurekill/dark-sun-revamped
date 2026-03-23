@@ -1,0 +1,40 @@
+{
+  "_id": "nQ6Dy5v6aEDbSMB1",
+  "_key": "!items!nQ6Dy5v6aEDbSMB1",
+  "name": "Psionic: Domination",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/domination.svg",
+  "system": {
+    "description": "<p>A single humanoid or creature must save vs spells or be dominated. A dominated creature is under the control of the psionic wielder but may make another save if forced to act against its own alignment.</p>",
+    "lvl": 1,
+    "duration": "1 Round, varies",
+    "range": "90'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": "GBIWOCwJBnjz0Lh1",
+  "_key": "!actors!GBIWOCwJBnjz0Lh1",
+  "name": "Kirre",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/kirre.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 0
+      },
+      "aac": {
+        "value": 20
+      },
+      "hd": "10+10",
+      "hp": {
+        "value": 55,
+        "max": 55,
+        "min": 0
+      },
+      "thac0": {
+        "value": 9
+      },
+      "attacks": "4 x whip (1d6 by tentacle)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 6,
+        "wand": 7,
+        "paralysis": 8,
+        "breath": 8,
+        "spell": 10
+      },
+      "morale": "11",
+      "alignment": "Neutral",
+      "xp": 3000,
+      "number": {
+        "appearing": "1(1)"
+      },
+      "treasure": {
+        "type": "Water"
+      },
+      "special": "PSI: Levitation, Telekinesis, Precognition, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Know Direction, Powers: 8 Rank: 3rd Danger Sense: It cannot be surprised. Poison: Causes victims to become horribly sick for ten days (save versus poison): no physical activity possible except half speed movement. Infravision: 90\u2019 Pursuit: Always pursue prey that flees. PSI:Mind Bar, Teleki"
+    },
+    "description": "<p>A large, four-armed feline predator of the Athasian tablelands. Kirre are relentless hunters who pursue fleeing prey.</p><p><strong>Psionics:</strong> Levitation, Telekinesis, Precognition, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Know Direction, Powers: 8 Rank: 3rd Danger Sense: It cannot be surprised. Poison: Causes victims to become horribly sick for ten days (save versus poison): no physical activity possible excep</p>",
+    "psionics": {
+      "value": "Levitation, Telekinesis, Precognition, Thought Shield, Crush Life WT: Life Detection, All-Round Vision, Know Direction, Powers: 8 Rank: 3rd Danger Sense: It cannot be surprised. Poison: Causes victims to become horribly sick for ten days (save versus poison): no physical activity possible excep"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Kirre",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1300,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

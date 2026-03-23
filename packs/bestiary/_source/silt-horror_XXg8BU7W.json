@@ -1,0 +1,85 @@
+{
+  "_id": "XXg8BU7WCPmP0dRW",
+  "_key": "!actors!XXg8BU7WCPmP0dRW",
+  "name": "Silt Horror",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/silt-horror.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 4
+      },
+      "aac": {
+        "value": 16
+      },
+      "hd": "3",
+      "hp": {
+        "value": 12,
+        "max": 12,
+        "min": 0
+      },
+      "thac0": {
+        "value": 7
+      },
+      "attacks": "1 x spear (1d8 by weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "6",
+      "alignment": "Lawful",
+      "xp": 80,
+      "number": {
+        "appearing": "2d8(5d6)"
+      },
+      "treasure": {
+        "type": "R"
+      },
+      "special": "PSI: WT: Know Direction, Life Detection Powers: 4 Rank: 1st Fire Resistance: They receive only half damage from fire based attacks. Shaman: For each group of 10 or more ssurrans encountered, one is a shaman/leader with maximum hit points and 3rd level clerical abilities. It has a 5% chance to hold valuable equipment. A snake 50\u2019 long with a hard, chitinous shell. It is usually seen flying during t"
+    },
+    "description": "<p>Silt Horror is the name given to a group of terrifying predators that lurk beneath the surface of the Sea of Silt.</p><p><strong>Psionics:</strong> WT: Know Direction, Life Detection Powers: 4 Rank: 1st Fire Resistance: They receive only half damage from fire based attacks. Shaman: For each group of 10 or more ssurrans encountered, one is a shaman/leader with maximum hit points and 3rd level clerical abilities. It has a 5% chance to hold va</p>",
+    "psionics": {
+      "value": "WT: Know Direction, Life Detection Powers: 4 Rank: 1st Fire Resistance: They receive only half damage from fire based attacks. Shaman: For each group of 10 or more ssurrans encountered, one is a shaman/leader with maximum hit points and 3rd level clerical abilities. It has a 5% chance to hold va"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Silt Horror",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3600,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

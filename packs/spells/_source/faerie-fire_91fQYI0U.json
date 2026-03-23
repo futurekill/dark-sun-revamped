@@ -1,0 +1,40 @@
+{
+  "_id": "91fQYI0UjjL8F17C",
+  "_key": "!items!91fQYI0UjjL8F17C",
+  "name": "Faerie Fire",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/faerie-fire.svg",
+  "system": {
+    "description": "<p>Creates harmless colored flames on detected targets. Flames Effect: Attacks on targets gain a +2 bonus to hit. Counters invisibility: The flickering fire makes invisible targets visible.</p>",
+    "lvl": 1,
+    "duration": "1 hour",
+    "range": "60'",
+    "area": "Cube 10'x10'x10'",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

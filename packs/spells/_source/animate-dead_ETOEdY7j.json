@@ -1,0 +1,40 @@
+{
+  "_id": "ETOEdY7j7MErKRhW",
+  "_key": "!items!ETOEdY7j7MErKRhW",
+  "name": "Animate Dead",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/animate-dead.svg",
+  "system": {
+    "description": "<p>You can cast this spell only at night. Choose up to six corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control.</p>",
+    "lvl": 5,
+    "duration": "Permanent",
+    "range": "10'",
+    "area": "One or more corpses",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

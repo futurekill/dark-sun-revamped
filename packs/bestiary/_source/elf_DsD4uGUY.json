@@ -1,0 +1,85 @@
+{
+  "_id": "DsD4uGUYBa33brGf",
+  "_key": "!actors!DsD4uGUYBa33brGf",
+  "name": "Elf",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/elf.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 3
+      },
+      "aac": {
+        "value": 17
+      },
+      "hd": "15",
+      "hp": {
+        "value": 67,
+        "max": 67,
+        "min": 0
+      },
+      "thac0": {
+        "value": 5
+      },
+      "attacks": "2 x attack (2d8+4 by fist or weapon)",
+      "movement": "60\u2019",
+      "saves": {
+        "death": 6,
+        "wand": 7,
+        "paralysis": 8,
+        "breath": 8,
+        "spell": 10
+      },
+      "morale": "10",
+      "alignment": "Neutral",
+      "xp": 1,
+      "number": {
+        "appearing": "1d4+2(2d6)"
+      },
+      "treasure": {
+        "type": "O"
+      },
+      "special": "PSI:Mind Bar, Clairvoyance, Crush Life, Kinetic Fist WT: Detect Life, Know Direction Powers: 5 Rank: 2nd Psionic Resistance: Only affected by 2nd rank Powers and onwards. Beasthead: The head has the shape of a beast, and it can make an attack similar to that creature, as listed below: \u25cf Eagle, goat 1d8+4 \u25cf Wolf 1d10+2 \u25cf Id Fiend 1d6+6 \u25cf Kirre 1d10 (2 attacks) \u25cf Braxat 2d8 (breath weapon, target sa"
+    },
+    "description": "<p>Athasian Elves stand 6'-7' tall. They are nomadic runners who travel the deserts and tablelands of Athas.</p><p><strong>Psionics:</strong> Mind Bar, Clairvoyance, Crush Life, Kinetic Fist WT: Detect Life, Know Direction Powers: 5 Rank: 2nd Psionic Resistance: Only affected by 2nd rank Powers and onwards. Beasthead: The head has the shape of a beast, and it can make an attack similar to that creature, as listed below: \u25cf Eagle, goat 1</p>",
+    "psionics": {
+      "value": "Mind Bar, Clairvoyance, Crush Life, Kinetic Fist WT: Detect Life, Know Direction Powers: 5 Rank: 2nd Psionic Resistance: Only affected by 2nd rank Powers and onwards. Beasthead: The head has the shape of a beast, and it can make an attack similar to that creature, as listed below: \u25cf Eagle, goat 1"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Elf",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 2100,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

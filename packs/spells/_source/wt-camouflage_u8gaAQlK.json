@@ -1,0 +1,40 @@
+{
+  "_id": "u8gaAQlKH6uUqAKD",
+  "_key": "!items!u8gaAQlKH6uUqAKD",
+  "name": "Wild Talent: Camouflage",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/camouflage.svg",
+  "system": {
+    "description": "<p>The character using this power changes the coloration of their skin, clothing, and equipment to match the background. The match is automatic; appearance is not chosen.</p>",
+    "lvl": 0,
+    "duration": "",
+    "range": "",
+    "area": "",
+    "save": "",
+    "class": "Wild Talent",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

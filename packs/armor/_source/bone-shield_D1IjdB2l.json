@@ -1,0 +1,50 @@
+{
+  "_id": "D1IjdB2lkd6mO0Zj",
+  "_key": "!items!D1IjdB2lkd6mO0Zj",
+  "name": "Bone Shield",
+  "type": "armor",
+  "img": "modules/dark-sun-revamped/assets/icons/armor/bone-shield.svg",
+  "system": {
+    "description": "<p>+1 AC bonus. Lighter than wood. Made from large animal bones.</p>",
+    "ac": {
+      "value": 0
+    },
+    "aac": {
+      "value": 0
+    },
+    "type": "shield",
+    "cost": {
+      "value": 10,
+      "unit": "cp"
+    },
+    "weight": 4,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-armor"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

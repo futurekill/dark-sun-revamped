@@ -1,0 +1,54 @@
+{
+  "_id": "cuAjp5w2bZNJ14Yd",
+  "_key": "!items!cuAjp5w2bZNJ14Yd",
+  "name": "Trikal",
+  "type": "weapon",
+  "img": "modules/dark-sun-revamped/assets/icons/weapons/trikal.svg",
+  "system": {
+    "description": "<p>Three-bladed polearm. Can be used to disarm opponents.</p>",
+    "damage": "1d8",
+    "cost": {
+      "value": 18,
+      "unit": "cp"
+    },
+    "weight": 7,
+    "melee": true,
+    "missile": false,
+    "slow": true,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 2
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

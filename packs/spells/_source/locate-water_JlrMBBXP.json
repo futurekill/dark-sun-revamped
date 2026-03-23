@@ -1,0 +1,40 @@
+{
+  "_id": "JlrMBBXP9eYDLXrL",
+  "_key": "!items!JlrMBBXP9eYDLXrL",
+  "name": "Locate Water",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/locate-water.svg",
+  "system": {
+    "description": "<p>The caster senses the direction to any water source of at least 5 gallons, as long as that water source is within 2 miles of the caster.</p>",
+    "lvl": 1,
+    "duration": "1 hour",
+    "range": "2 miles",
+    "area": "Radius varies",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

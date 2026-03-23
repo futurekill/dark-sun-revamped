@@ -1,0 +1,85 @@
+{
+  "_id": "F8kaDGNxxAhgWHXJ",
+  "_key": "!actors!F8kaDGNxxAhgWHXJ",
+  "name": "Sand Bride",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/sand-bride.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 2
+      },
+      "aac": {
+        "value": 18
+      },
+      "hd": "4",
+      "hp": {
+        "value": 17,
+        "max": 17,
+        "min": 0
+      },
+      "thac0": {
+        "value": 17
+      },
+      "attacks": "2 x attack (2d4 by claws and bite)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "7",
+      "alignment": "Neutral",
+      "xp": 120,
+      "number": {
+        "appearing": "1d4(3d4)"
+      },
+      "treasure": {
+        "type": "Q"
+      },
+      "special": "PSI: Kinetic Shield WT: Control Light Powers: 4 Rank: 1st Light Beam: After taking a round to prepare, the spider shoots a light beam from its eyes as an attack roll. Target creature receives 3d6 damage and must save vs wands and be blinded on a failure. Poison needle: Any creature hit by its spines must save vs paralysis, failure causes paralysis on the target for 1d6 rounds. 50 Ssurrans are noma"
+    },
+    "description": "<p>The sand bride is a negative material entity that haunts the deep desert. It can create the illusion of an oasis to lure in thirsty travelers.</p><p><strong>Psionics:</strong> Kinetic Shield WT: Control Light Powers: 4 Rank: 1st Light Beam: After taking a round to prepare, the spider shoots a light beam from its eyes as an attack roll. Target creature receives 3d6 damage and must save vs wands and be blinded on a failure. Poison needle: Any creature hit by its spines</p>",
+    "psionics": {
+      "value": "Kinetic Shield WT: Control Light Powers: 4 Rank: 1st Light Beam: After taking a round to prepare, the spider shoots a light beam from its eyes as an attack roll. Target creature receives 3d6 damage and must save vs wands and be blinded on a failure. Poison needle: Any creature hit by its spines"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Sand Bride",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3500,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

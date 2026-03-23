@@ -1,0 +1,85 @@
+{
+  "_id": "dz0NaurCsZZfgPY9",
+  "_key": "!actors!dz0NaurCsZZfgPY9",
+  "name": "Ssurran",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/ssurran.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 5
+      },
+      "aac": {
+        "value": 15
+      },
+      "hd": "3+2",
+      "hp": {
+        "value": 15,
+        "max": 15,
+        "min": 0
+      },
+      "thac0": {
+        "value": 16
+      },
+      "attacks": "4 x attacks (1d4 by claw or weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "9",
+      "alignment": "Chaotic",
+      "xp": 150,
+      "number": {
+        "appearing": "2d12(2d12)"
+      },
+      "treasure": {
+        "type": "R"
+      },
+      "special": "PSI: Kinetic Shield, Kinetic Leap, ESP WT: Chameleon Power, Send Thoughts Powers: 6 Rank: 1st Multi-arm: Thri-kreen have four arms and can use up to four weapons at once. They receive a penalty of -2 on their attack roll if they carry any extra weapon. 52 Tohr-kreen are larger, cultured versions of thri-kreen. They are more civilized than their smaller cousins, and not nearly as aggressive. Howeve"
+    },
+    "description": "<p>Ssurrans are nomadic, humanoid lizard-folk who roam the desert wastes of Athas in large groups.</p><p><strong>Psionics:</strong> Kinetic Shield, Kinetic Leap, ESP WT: Chameleon Power, Send Thoughts Powers: 6 Rank: 1st Multi-arm: Thri-kreen have four arms and can use up to four weapons at once. They receive a penalty of -2 on their attack roll if they carry any extra weapon. 52 Tohr-kreen are larger, cultured versions</p>",
+    "psionics": {
+      "value": "Kinetic Shield, Kinetic Leap, ESP WT: Chameleon Power, Send Thoughts Powers: 6 Rank: 1st Multi-arm: Thri-kreen have four arms and can use up to four weapons at once. They receive a penalty of -2 on their attack roll if they carry any extra weapon. 52 Tohr-kreen are larger, cultured versions"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Ssurran",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3900,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

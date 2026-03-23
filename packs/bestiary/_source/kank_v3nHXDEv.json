@@ -1,0 +1,85 @@
+{
+  "_id": "v3nHXDEvU2QefQA4",
+  "_key": "!actors!v3nHXDEvU2QefQA4",
+  "name": "Kank",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/kank.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 8
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "3",
+      "hp": {
+        "value": 12,
+        "max": 12,
+        "min": 0
+      },
+      "thac0": {
+        "value": 17
+      },
+      "attacks": "1 x attack (1d6 by claws or weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 55,
+      "number": {
+        "appearing": "1d10(2d10+5)"
+      },
+      "treasure": {
+        "type": "V"
+      },
+      "special": "PSI: Cell Adjustment, Mind Bar, Mind Link, Teleport, Crush Life, Molecular Rearrangement, Molecular Agitation, Dimension Door, Telekinesis, Control Density, Thought Shield, Hypnosis, Astral Projection, Accelerated Motion, Levitation, Body Weaponry, Clairvoyance, Clairaudience WT: Sight Link, Chameleon Power Powers: 18 Rank: 4th Divine Magic: Pyreens have access to spells from all elemental spheres"
+    },
+    "description": "<p>Kanks are large docile insects, often used as mounts and pack animals by Athasians.</p><p><strong>Psionics:</strong> Cell Adjustment, Mind Bar, Mind Link, Teleport, Crush Life, Molecular Rearrangement, Molecular Agitation, Dimension Door, Telekinesis, Control Density, Thought Shield, Hypnosis, Astral Projection, Accelerated Motion, Levitation, Body Weaponry, Clairvoyance, Clairaudience WT: Sight Link, Chamele</p>",
+    "psionics": {
+      "value": "Cell Adjustment, Mind Bar, Mind Link, Teleport, Crush Life, Molecular Rearrangement, Molecular Agitation, Dimension Door, Telekinesis, Control Density, Thought Shield, Hypnosis, Astral Projection, Accelerated Motion, Levitation, Body Weaponry, Clairvoyance, Clairaudience WT: Sight Link, Chamele"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Kank",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 3000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

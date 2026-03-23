@@ -1,0 +1,55 @@
+{
+  "_id": "gGowIgHbSvFmPGpa",
+  "_key": "!items!gGowIgHbSvFmPGpa",
+  "name": "Druid",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/druid.svg",
+  "system": {
+    "description": "<p>Druids are independent priests who ally themselves with various spirits of the land. Virtually every feature of the land on Athas has a druid to protect it. They regard the ways of the natural world as the ideal state of things.</p><p><strong>Holy Symbol:</strong> A druid must carry a holy symbol</p><p><strong>Spell Casting:</strong> A druid may pray to receive spells from the sphere of the cosmos and the sphere of nature</p><p><strong>Guarded Lands:</strong> Every druid must choose one type of geographic feature to be his guarded lands, gaining various powers depending on level</p><p><strong>Concealment in Guarded Lands:</strong> At 1st Level, remain concealed from others while in guarded lands (proof against non-magical detection)</p><p><strong>Animal and Plant Identification:</strong> At 3rd Level, identify animals and plants from guarded lands. At 8th Level, identify all plants and animals and discern pure water</p><p><strong>Animal Communication:</strong> At 7th Level, speak with all animals in guarded lands. At 9th Level, speak with plants</p><p><strong>Self-Sustenance:</strong> At 10th Level, live without water or nourishment in guarded lands, drawing life energy directly from the land</p><p><strong>Animal Form:</strong> At 7th level, change into the form of an animal from favored land three times per day, regaining 1d4 hit points per level</p><p><strong>Permanent Settlement:</strong> Upon reaching 12th level, must spend half of his time on guarded lands. May build a shrine and take 1d6 low level druids as disciples</p>",
+    "requirements": "Must be neutral alignment",
+    "reqs": {
+      "prime": "WIS",
+      "details": "Must be neutral alignment"
+    },
+    "class": {
+      "hd": "1d8",
+      "armor": "No metal armor or shields (wooden shields allowed)",
+      "weapons": "Clubs, daggers, slings, spears, and staves",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2000,
+        4000,
+        8000,
+        16000,
+        32000,
+        64000,
+        120000,
+        240000,
+        360000,
+        480000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

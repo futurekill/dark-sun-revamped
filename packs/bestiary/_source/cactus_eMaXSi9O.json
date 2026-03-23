@@ -1,0 +1,85 @@
+{
+  "_id": "eMaXSi9OwYy5MCGZ",
+  "_key": "!actors!eMaXSi9OwYy5MCGZ",
+  "name": "Cactus",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/cactus.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 8
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "5+5",
+      "hp": {
+        "value": 27,
+        "max": 27,
+        "min": 0
+      },
+      "thac0": {
+        "value": 15
+      },
+      "attacks": "6-8 x spine (1d4 per appendage)",
+      "movement": "0",
+      "saves": {
+        "death": 10,
+        "wand": 11,
+        "paralysis": 12,
+        "breath": 12,
+        "spell": 14
+      },
+      "morale": "N/A",
+      "alignment": "Neutral",
+      "xp": 575,
+      "number": {
+        "appearing": "0(1)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: WT: Life Detection Poison spines: Any creature hit by its spines must save vs paralysis, failure causes paralysis on the target for 1d6 rounds. Spider Cactus Spider cactus patches look like any patch of harmless cacti until a victim is showered by their needles. The victim is then dragged into the cactus, where the feeding needles make a slow feast of the hapless being."
+    },
+    "description": "<p>Cacti are a vile form of plant life that dwells anywhere there is sand. It feeds on the blood of its victims. They often rest among a group of normal cacti if one is available.</p><p><strong>Psionics:</strong> WT: Life Detection Poison spines: Any creature hit by its spines must save vs paralysis, failure causes paralysis on the target for 1d6 rounds. Spider Cactus Spider cactus patches look like any patch of harmless cacti until a victim is showered by their needles. The victim is then dragged into</p>",
+    "psionics": {
+      "value": "WT: Life Detection Poison spines: Any creature hit by its spines must save vs paralysis, failure causes paralysis on the target for 1d6 rounds. Spider Cactus Spider cactus patches look like any patch of harmless cacti until a victim is showered by their needles. The victim is then dragged into"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Cactus",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 800,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "HVddCrz8ogYwqvb5",
+  "_key": "!items!HVddCrz8ogYwqvb5",
+  "name": "Psionic: Psionic Blast",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/psionic-blast.svg",
+  "system": {
+    "description": "<p>This power is a dreadful mental attack. Health Deception: The target must save vs death or for 6 turns the target believes they have lost 80% of their remaining hit points. Requirement: 3rd Rank. Range affects the target's save modifier.</p>",
+    "lvl": 1,
+    "duration": "N/A",
+    "range": "60/120/180'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

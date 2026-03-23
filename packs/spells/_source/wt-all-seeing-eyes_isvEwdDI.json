@@ -1,0 +1,40 @@
+{
+  "_id": "isvEwdDIjJeSSJJW",
+  "_key": "!items!isvEwdDIjJeSSJJW",
+  "name": "Wild Talent: All-Seeing Eyes",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/all-seeing-eyes.svg",
+  "system": {
+    "description": "<p>This power gives the psionicist eyes in the back of his head and in the sides and top, as well. In effect, the character can see in all directions simultaneously.</p>",
+    "lvl": 0,
+    "duration": "",
+    "range": "",
+    "area": "",
+    "save": "",
+    "class": "Wild Talent",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

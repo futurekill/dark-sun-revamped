@@ -1,0 +1,40 @@
+{
+  "_id": "LnJkCLeVwf4CrlJj",
+  "_key": "!items!LnJkCLeVwf4CrlJj",
+  "name": "Transmute Dust to Water",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/transmute-dust-to-water.svg",
+  "system": {
+    "description": "<p>Turns up to 300 square feet of silt into 10' deep water. This water is salt water, meaning that it cannot be consumed right away. When the spell duration ends, all the water turns back into silt. Reversed: Transmute Water to Dust.</p>",
+    "lvl": 5,
+    "duration": "Varies",
+    "range": "150'",
+    "area": "300 square feet, 10' deep",
+    "save": "",
+    "class": "Cleric",
+    "reversible": true,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

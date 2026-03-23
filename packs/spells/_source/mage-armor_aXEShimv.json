@@ -1,0 +1,40 @@
+{
+  "_id": "aXEShimvXMnNzHPZ",
+  "_key": "!items!aXEShimvXMnNzHPZ",
+  "name": "Mage Armor",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/mage-armor.svg",
+  "system": {
+    "description": "<p>You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it. AC becomes 13 + Dexterity modifier for the duration. Does not require concentration.</p>",
+    "lvl": 1,
+    "duration": "8 hours",
+    "range": "Touch",
+    "area": "One willing creature",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

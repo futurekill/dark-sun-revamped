@@ -1,0 +1,55 @@
+{
+  "_id": "mFzj70HLfGzf1fhf",
+  "_key": "!items!mFzj70HLfGzf1fhf",
+  "name": "Half-Giant",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/half-giant.svg",
+  "system": {
+    "description": "<p>In some lost millennium, as a bizarre experiment or perhaps as some sort of curse, giants were magically crossbred with humans. Half-giants are now fairly common, especially in human controlled lands at the edge of the Sea of Dust.</p><p><strong>Enhanced Damage:</strong> Half-Giants deal more damage due to their natural strength. Every melee weapon that would inflict 1d4, 1d6, 1d8 and 1d10 damage would instead inflict 1d6, 1d8, 1d10 and 1d12 damage</p><p><strong>Size Penalty:</strong> Half-Giants must pay 20% more for armor, weapons and commodities. Additionally, Half-Giants need double the amount of food and water to survive</p><p><strong>No Alignment Preference:</strong> Half-Giants don't follow any alignment; they take the alignment of those who surround them</p><p><strong>Extra Hit Points:</strong> Half-Giants gain +2 Hit Points every time they reach a level</p><p><strong>Spell and Wand Resistance:</strong> Half-Giants have a +2 bonus to saving throws against spells and wands</p><p><strong>Clan Leadership:</strong> After reaching 8th level, Half-Giants may build a stronghold, which will form the basis of a new community of Giants and other Half-Giants, becoming the Chief of the Clan</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "STR",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d10",
+      "armor": "All types, including shields",
+      "weapons": "Normal and large sized weapons",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        3000,
+        6000,
+        12000,
+        24000,
+        48000,
+        96000,
+        180000,
+        360000,
+        540000,
+        720000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

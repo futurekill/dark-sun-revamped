@@ -1,0 +1,85 @@
+{
+  "_id": "ex57yEsGosnxaoTv",
+  "_key": "!actors!ex57yEsGosnxaoTv",
+  "name": "Cistern Fiend (variant)",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/cistern-fiend.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 4
+      },
+      "aac": {
+        "value": 16
+      },
+      "hd": "2+4",
+      "hp": {
+        "value": 14,
+        "max": 14,
+        "min": 0
+      },
+      "thac0": {
+        "value": 15
+      },
+      "attacks": "1 x attack (1d6 by claw or bite)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 40,
+      "number": {
+        "appearing": "0(5d6)"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: WT: All-Round Vision, Know Direction Powers: 2 28 Drakes are gargantuan, reptilian monsters that use Athas as their personal hunting grounds. Drakes comprise a very powerful, non-intelligent group of creatures on Athas. If natural instinct, cunning, and ferocity were measurable, drakes would surpass many other creatures. Innate Psionics: They are feared for their size, speed, and devastating "
+    },
+    "description": "<p>The cistern fiend appears as a giant, vaguely green but translucent worm with a great mass of coiling pinkish tentacles surrounding a hideous mouth.</p><p><strong>Psionics:</strong> WT: All-Round Vision, Know Direction Powers: 2 28 Drakes are gargantuan, reptilian monsters that use Athas as their personal hunting grounds. Drakes comprise a very powerful, non-intelligent group of creatures on Athas. If natural instinct, cunning, and ferocity were measurable, drakes would</p>",
+    "psionics": {
+      "value": "WT: All-Round Vision, Know Direction Powers: 2 28 Drakes are gargantuan, reptilian monsters that use Athas as their personal hunting grounds. Drakes comprise a very powerful, non-intelligent group of creatures on Athas. If natural instinct, cunning, and ferocity were measurable, drakes would"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Cistern Fiend (variant)",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1500,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "fhYwmiRkeRjBgSGx",
+  "_key": "!items!fhYwmiRkeRjBgSGx",
+  "name": "Dimension Door",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/dimension-door.svg",
+  "system": {
+    "description": "<p>Teleports you and an ally to a location within 500 feet that you can see or describe verbally.</p>",
+    "lvl": 4,
+    "duration": "Instantaneous",
+    "range": "500'",
+    "area": "Self or one willing creature",
+    "save": "",
+    "class": "Magic-User/Preserver/Defiler",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

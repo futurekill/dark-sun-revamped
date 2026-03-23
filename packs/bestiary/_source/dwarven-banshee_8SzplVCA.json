@@ -1,0 +1,85 @@
+{
+  "_id": "8SzplVCAn0ge4VUp",
+  "_key": "!actors!8SzplVCAn0ge4VUp",
+  "name": "Dwarven Banshee",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/dwarven-banshee.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 7
+      },
+      "aac": {
+        "value": 12
+      },
+      "hd": "3",
+      "hp": {
+        "value": 13,
+        "max": 13,
+        "min": 0
+      },
+      "thac0": {
+        "value": 17
+      },
+      "attacks": "2 x attack (1d6/1d4 by claw or bite)",
+      "movement": "90\u2019",
+      "saves": {
+        "death": 12,
+        "wand": 13,
+        "paralysis": 14,
+        "breath": 15,
+        "spell": 16
+      },
+      "morale": "6",
+      "alignment": "Neutral",
+      "xp": 35,
+      "number": {
+        "appearing": "5d10"
+      },
+      "treasure": {
+        "type": "Nil"
+      },
+      "special": "PSI: One random power WT: Send Thoughts, Catfall Powers: 2 Rank 1st Elven Run: It can run up 200\u2019 for 2d6 rounds one per day. Leader: Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table. PSI: WT: All-Round Vision, Know Direction Powers: 2 Max load: Carry up to 4,500 coins unencumbered; up to 9,000 at half speed. 35 A ga"
+    },
+    "description": "<p>Dwarves who die before completing their focus become an undead horror driven by their obsessive task.</p><p><strong>Psionics:</strong> One random power WT: Send Thoughts, Catfall Powers: 2 Rank 1st Elven Run: It can run up 200\u2019 for 2d6 rounds one per day. Leader: Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table. PSI: WT: All-Round Vision, Know D</p>",
+    "psionics": {
+      "value": "One random power WT: Send Thoughts, Catfall Powers: 2 Rank 1st Elven Run: It can run up 200\u2019 for 2d6 rounds one per day. Leader: Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table. PSI: WT: All-Round Vision, Know D"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Dwarven Banshee",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 1900,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

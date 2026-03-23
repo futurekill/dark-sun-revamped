@@ -1,0 +1,55 @@
+{
+  "_id": "STvl34NHoQ6dc5nZ",
+  "_key": "!items!STvl34NHoQ6dc5nZ",
+  "name": "Thri-Kreen",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/thri-kreen.svg",
+  "system": {
+    "description": "<p>Hulking insect-men standing as tall as 7 feet at the shoulder, the thri-kreen are the least 'Human' of the player character races. Their survivability in the wilderness has made them the undisputed masters across large tracts of the Athasian wastes.</p><p><strong>Natural Weaponry:</strong> When attacking unarmed, the thri-kreen claws make 1d6 damage. Can attack once per day with a poisonous bite, inflicting 1d4 damage (opponent must succeed save vs paralysis or become paralyzed for one round)</p><p><strong>Four Arms:</strong> Thri-kreen have four arms that can be used to perform tasks such as opening doors, carrying torches, using tools. May attack with only one arm (two if using optional dual wielding rules)</p><p><strong>Natural Armor:</strong> Thri-kreen have hard bodies, which provide them with a fixed Armor Class of 5 (14)</p><p><strong>No Sleep Requirement:</strong> Thri-kreen do not have the need to sleep, they can remain active day and night (though still affected by sleeping venoms and magic)</p><p><strong>Alien Nature:</strong> Due to their alien nature, thri-kreen cannot hire mercenaries nor specialists of any kind</p><p><strong>Pack Leadership:</strong> A thri-kreen is able to create its own pack at any time by asserting dominance over other thri-kreen, becoming Chief of the Pack and commanding up to 15 thri-kreen like regular hirelings</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "DEX, STR",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d10",
+      "armor": "None (natural armor class 5/14)",
+      "weapons": "All types",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2750,
+        5500,
+        11000,
+        22000,
+        44000,
+        88000,
+        165000,
+        330000,
+        495000,
+        660000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

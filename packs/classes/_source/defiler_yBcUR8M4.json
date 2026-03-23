@@ -1,0 +1,55 @@
+{
+  "_id": "yBcUR8M4INcMOIL4",
+  "_key": "!items!yBcUR8M4INcMOIL4",
+  "name": "Defiler",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/defiler.svg",
+  "system": {
+    "description": "<p>The defiler is a magic-user who activates tremendous magical energy without regard to its effect on the environment. With the casting of each spell, a defiler destroys a portion of the world's ecosystem, rendering it dead and sterile.</p><p><strong>Spell Book:</strong> Magic-users carry spell books containing the formulae for arcane spells. A 1st level magic-user has one spell in their spell book, selected by the referee</p><p><strong>Spell Memorization:</strong> The number of spells they may memorize is determined by the character's experience level</p><p><strong>Defiling Magic:</strong> Defilers always defile when casting spells, destroying the nearby environment</p><p><strong>Magical Research:</strong> A magic-user of any level may spend time and money on magical research to add new spells to their spell book</p><p><strong>Magic Item Creation:</strong> When a magic-user reaches 9th level, they are able to create magic items</p><p><strong>Spell Scrolls:</strong> As spell casters, magic-users are able to use magic scrolls of spells on their spell list</p><p><strong>Apprentices:</strong> The defiler may build a mansion and attract 1d6 apprentices of levels 1-3 to study under his tutelage</p>",
+    "requirements": "None",
+    "reqs": {
+      "prime": "INT",
+      "details": "None"
+    },
+    "class": {
+      "hd": "1d4",
+      "armor": "None",
+      "weapons": "Daggers and staves only",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        2500,
+        5000,
+        10000,
+        20000,
+        40000,
+        80000,
+        150000,
+        300000,
+        450000,
+        600000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

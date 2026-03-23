@@ -1,0 +1,40 @@
+{
+  "_id": "jNOd7AXS7tvYcz1w",
+  "_key": "!items!jNOd7AXS7tvYcz1w",
+  "name": "Psionic: Shape Alteration",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/shape-alteration.svg",
+  "system": {
+    "description": "<p>The psionic character can transform their body into an object or living thing as long as it is of similar mass. Requirement: 2nd Rank. The character's health points and THAC0 remain the same but assume new AC and attacks of the transformed form.</p>",
+    "lvl": 1,
+    "duration": "up to 1 round per rank",
+    "range": "Self",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

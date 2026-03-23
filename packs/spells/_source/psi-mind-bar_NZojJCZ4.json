@@ -1,0 +1,40 @@
+{
+  "_id": "NZojJCZ47nkYCcGU",
+  "_key": "!items!NZojJCZ47nkYCcGU",
+  "name": "Psionic: Mind Bar",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/mind-bar.svg",
+  "system": {
+    "description": "<p>Imparts the psionic character with magical resistance and psionic protection benefits.</p>",
+    "lvl": 1,
+    "duration": "3 rounds per rank",
+    "range": "Self",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

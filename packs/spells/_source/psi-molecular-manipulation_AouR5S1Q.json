@@ -1,0 +1,40 @@
+{
+  "_id": "AouR5S1QSKFNuKmk",
+  "_key": "!items!AouR5S1QSKFNuKmk",
+  "name": "Psionic: Molecular Manipulation",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/molecular-manipulation.svg",
+  "system": {
+    "description": "<p>The psionic character can weaken a substance by moving its molecules around at the rate two square inches per round.</p>",
+    "lvl": 1,
+    "duration": "1 round per rank",
+    "range": "45'",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

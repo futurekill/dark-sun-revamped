@@ -1,0 +1,40 @@
+{
+  "_id": "nB4p0Tbu7FNenG71",
+  "_key": "!items!nB4p0Tbu7FNenG71",
+  "name": "Psionic: Kinetic Leap",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/kinetic-leap.svg",
+  "system": {
+    "description": "<p>The caster propels their own body with a surge of kinetic force, allowing them to make a superhuman leap. The caster can leap to any location within range, including vertically.</p>",
+    "lvl": 1,
+    "duration": "Instant",
+    "range": "10' + 10' per rank",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

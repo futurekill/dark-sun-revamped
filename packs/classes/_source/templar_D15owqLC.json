@@ -1,0 +1,55 @@
+{
+  "_id": "D15owqLClfxn9oYE",
+  "_key": "!items!D15owqLClfxn9oYE",
+  "name": "Templar",
+  "type": "ability",
+  "img": "modules/dark-sun-revamped/assets/icons/classes/templar.svg",
+  "system": {
+    "description": "<p>Templars are the greatly feared disciples of the sorcerer-kings. The work they perform is governed by endless bureaucracy, treachery and religion. They operate as law enforcers in their cities and are devoted to a single sorcerer-king.</p><p><strong>Holy Symbol:</strong> A templar must carry a royal holy symbol</p><p><strong>Spell Casting:</strong> Once a templar has advanced in the hierarchy (from 2nd level), the character may pray to receive spells from the Sphere of the Cosmos</p><p><strong>Magic Item Creation:</strong> A templar of any level may spend time and money on magical research. When a Templar reaches 9th level, they are able to create magic items</p><p><strong>Judgment:</strong> A templar can pass judgment on his city-state, arresting, investigating, sentencing, or pardoning as he sees fit. At 1st level: judgment on slaves, 6th level: judgment on free men, 12th level: judgment on nobles</p><p><strong>Soldier Aid:</strong> A templar may request the help of 1d4 soldiers from his city-state at any time, of any level no higher than the templar</p><p><strong>Nobility:</strong> A templar may be granted a land and title such as vizier. The land under the templar's control becomes part of his noble house</p>",
+    "requirements": "Must be lawful alignment",
+    "reqs": {
+      "prime": "WIS",
+      "details": "Must be lawful alignment"
+    },
+    "class": {
+      "hd": "1d8",
+      "armor": "All types",
+      "weapons": "Clubs, daggers, shortbow, short swords and staves",
+      "max_level": 14,
+      "xp_table": [
+        0,
+        1500,
+        3000,
+        6000,
+        12000,
+        24000,
+        48000,
+        90000,
+        180000,
+        270000,
+        360000
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-classes"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "veJAOgfKOuitz31y",
+  "_key": "!items!veJAOgfKOuitz31y",
+  "name": "Banded Mail",
+  "type": "armor",
+  "img": "modules/dark-sun-revamped/assets/icons/armor/banded-mail.svg",
+  "system": {
+    "description": "<p>Bands of bone reinforced with woven cords. Heavy but effective.</p>",
+    "ac": {
+      "value": 4
+    },
+    "aac": {
+      "value": 15
+    },
+    "type": "heavy",
+    "cost": {
+      "value": 250,
+      "unit": "cp"
+    },
+    "weight": 35,
+    "quantity": {
+      "value": 1,
+      "max": 1
+    },
+    "tags": {
+      "athas": true
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-armor"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

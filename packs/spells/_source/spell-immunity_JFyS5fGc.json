@@ -1,0 +1,40 @@
+{
+  "_id": "JFyS5fGcDt3Nlb0C",
+  "_key": "!items!JFyS5fGcDt3Nlb0C",
+  "name": "Spell Immunity",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/spell-immunity.svg",
+  "system": {
+    "description": "<p>By means of this spell, the priest renders a creature touched immune to the effects of a specified spell of 4th level or lower. The caster must have directly experienced the effect of the specified spell.</p>",
+    "lvl": 4,
+    "duration": "Varies",
+    "range": "Touch",
+    "area": "One creature",
+    "save": "",
+    "class": "Cleric",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-spells"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

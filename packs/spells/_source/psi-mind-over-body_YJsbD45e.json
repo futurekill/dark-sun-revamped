@@ -1,0 +1,40 @@
+{
+  "_id": "YJsbD45eWLE0QhTV",
+  "_key": "!items!YJsbD45eWLE0QhTV",
+  "name": "Psionic: Mind Over Body",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/mind-over-body.svg",
+  "system": {
+    "description": "<p>Allows a number of people to survive without food, water, or sleep through deep meditation. Requirement: 3rd Rank. Characters must rest for one day for every two days surviving using this power.</p>",
+    "lvl": 1,
+    "duration": "up to 10 days per rank",
+    "range": "Touch",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

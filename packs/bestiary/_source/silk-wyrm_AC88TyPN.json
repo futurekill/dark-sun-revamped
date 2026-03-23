@@ -1,0 +1,85 @@
+{
+  "_id": "AC88TyPNeTqimkGv",
+  "_key": "!actors!AC88TyPNeTqimkGv",
+  "name": "Silk Wyrm",
+  "type": "monster",
+  "img": "modules/dark-sun-revamped/assets/icons/bestiary/silk-wyrm.svg",
+  "system": {
+    "details": {
+      "ac": {
+        "value": 3
+      },
+      "aac": {
+        "value": 17
+      },
+      "hd": "6",
+      "hp": {
+        "value": 25,
+        "max": 25,
+        "min": 0
+      },
+      "thac0": {
+        "value": 16
+      },
+      "attacks": "4 x attacks (1d4 by claw or weapon)",
+      "movement": "40\u2019",
+      "saves": {
+        "death": 8,
+        "wand": 9,
+        "paralysis": 10,
+        "breath": 10,
+        "spell": 12
+      },
+      "morale": "10",
+      "alignment": "Lawful",
+      "xp": 300,
+      "number": {
+        "appearing": "1(1d4)"
+      },
+      "treasure": {
+        "type": "R"
+      },
+      "special": "PSI: Kinetic Shield, Kinetic Leap, ESP WT: Chameleon Power, Send Thoughts Powers: 8 Rank: 2nd Multi-arm: Tohr-kreen have four arms and can use up to four weapons at once. They receive a penalty of -1 on their attack roll if they carry any extra weapon. Paralyzing Bite: They can bite their opponents and secret a strong poison, a failed save vs paralysis causes the victim to be paralyzed for 1d6 rou"
+    },
+    "description": "<p>A snake 50' long with a hard, chitinous exoskeleton. Silk wyrms are powerful predators of the Athasian wilderness.</p><p><strong>Psionics:</strong> Kinetic Shield, Kinetic Leap, ESP WT: Chameleon Power, Send Thoughts Powers: 8 Rank: 2nd Multi-arm: Tohr-kreen have four arms and can use up to four weapons at once. They receive a penalty of -1 on their attack roll if they carry any extra weapon. Paralyzing Bite: They can bite their opponents</p>",
+    "psionics": {
+      "value": "Kinetic Shield, Kinetic Leap, ESP WT: Chameleon Power, Send Thoughts Powers: 8 Rank: 2nd Multi-arm: Tohr-kreen have four arms and can use up to four weapons at once. They receive a penalty of -1 on their attack roll if they carry any extra weapon. Paralyzing Bite: They can bite their opponents"
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-bestiary"
+    }
+  },
+  "prototypeToken": {
+    "name": "Silk Wyrm",
+    "displayName": 20,
+    "actorLink": false,
+    "texture": {
+      "src": "modules/dark-sun-revamped/assets/tokens/bestiary/default.webp"
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "hp"
+    },
+    "bar2": {}
+  },
+  "folder": null,
+  "sort": 4000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

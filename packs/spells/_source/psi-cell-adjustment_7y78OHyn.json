@@ -1,0 +1,40 @@
+{
+  "_id": "7y78OHynPjX4B4Ts",
+  "_key": "!items!7y78OHynPjX4B4Ts",
+  "name": "Psionic: Cell Adjustment",
+  "type": "spell",
+  "img": "modules/dark-sun-revamped/assets/icons/spells/cell-adjustment.svg",
+  "system": {
+    "description": "<p>This power is used in two ways: Cure disease - Psionic energy is used so a disease can be cured in 1 round. Restore hit points - 1d4 hit points can be restored each round.</p>",
+    "lvl": 1,
+    "duration": "2 rounds per rank",
+    "range": "Touch",
+    "area": "",
+    "save": "",
+    "class": "Psionicist (Rank 1)",
+    "reversible": false,
+    "memorized": 0,
+    "cast": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-psionics"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}
