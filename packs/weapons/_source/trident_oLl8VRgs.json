@@ -7,10 +7,7 @@
   "system": {
     "description": "<p>Popular arena weapon. Can catch opponents' weapons.</p>",
     "damage": "1d6",
-    "cost": {
-      "value": 15,
-      "unit": "cp"
-    },
+    "cost": 15,
     "weight": 4,
     "melee": true,
     "missile": true,
@@ -18,16 +15,14 @@
     "blunt": false,
     "quantity": {
       "value": 1,
-      "max": 1
+      "max": 0
     },
     "range": {
       "short": 10,
       "medium": 20,
       "long": 30
     },
-    "tags": {
-      "athas": true
-    }
+    "tags": []
   },
   "effects": [],
   "folder": null,

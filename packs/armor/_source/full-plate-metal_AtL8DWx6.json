@@ -13,18 +13,14 @@
       "value": 17
     },
     "type": "heavy",
-    "cost": {
-      "value": 4000,
-      "unit": "cp"
-    },
+    "cost": 4000,
     "weight": 50,
     "quantity": {
       "value": 1,
-      "max": 1
+      "max": 0
     },
-    "tags": {
-      "athas": true
-    }
+    "equipped": false,
+    "tags": []
   },
   "effects": [],
   "folder": null,

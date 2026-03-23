@@ -7,24 +7,20 @@
   "system": {
     "description": "<p>+1 AC bonus. Made from hardwood, bone, or shell. Shields are widely used on Athas.</p>",
     "ac": {
-      "value": 0
+      "value": 1
     },
     "aac": {
-      "value": 0
+      "value": 1
     },
     "type": "shield",
-    "cost": {
-      "value": 5,
-      "unit": "cp"
-    },
+    "cost": 5,
     "weight": 5,
     "quantity": {
       "value": 1,
-      "max": 1
+      "max": 0
     },
-    "tags": {
-      "athas": true
-    }
+    "equipped": false,
+    "tags": []
   },
   "effects": [],
   "folder": null,

@@ -6,19 +6,15 @@
   "img": "modules/dark-sun-revamped/assets/icons/items/tent-small-2-person.svg",
   "system": {
     "description": "<p>Lightweight hide tent for desert camping. Provides shade and shelter.</p>",
-    "cost": {
-      "value": 10,
-      "unit": "cp"
-    },
+    "cost": 10,
     "weight": 20,
     "quantity": {
       "value": 1,
-      "max": 1
+      "max": 0
     },
     "treasure": false,
-    "tags": {
-      "athas": true
-    }
+    "tags": [],
+    "equipped": false
   },
   "effects": [],
   "folder": null,

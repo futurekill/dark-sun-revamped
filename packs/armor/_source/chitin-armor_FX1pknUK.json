@@ -12,19 +12,15 @@
     "aac": {
       "value": 13
     },
-    "type": "medium",
-    "cost": {
-      "value": 50,
-      "unit": "cp"
-    },
+    "type": "light",
+    "cost": 50,
     "weight": 25,
     "quantity": {
       "value": 1,
-      "max": 1
+      "max": 0
     },
-    "tags": {
-      "athas": true
-    }
+    "equipped": false,
+    "tags": []
   },
   "effects": [],
   "folder": null,

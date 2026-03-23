@@ -6,19 +6,15 @@
   "img": "modules/dark-sun-revamped/assets/icons/items/rope-hemp-50.svg",
   "system": {
     "description": "<p>50 feet of twisted plant-fiber rope. Supports up to 300 lbs.</p>",
-    "cost": {
-      "value": 1,
-      "unit": "cp"
-    },
+    "cost": 1,
     "weight": 10,
     "quantity": {
       "value": 1,
-      "max": 1
+      "max": 0
     },
     "treasure": false,
-    "tags": {
-      "athas": true
-    }
+    "tags": [],
+    "equipped": false
   },
   "effects": [],
   "folder": null,
