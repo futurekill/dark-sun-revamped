@@ -1,0 +1,53 @@
+{
+  "_id": "qwNXCq8eG6aEKwpS",
+  "_key": "!items!qwNXCq8eG6aEKwpS",
+  "name": "Dagger (Bone)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A short, easily-concealed blade. Widely used across all of Athas by warriors, thieves, and travellers alike.</p><p><strong>Material:</strong> Bone (cost paid in <strong>BP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1–3 on a 1d6 when a natural 1 is rolled to attack. Repair at 50% of original cost.</p>",
+    "damage": "1d4",
+    "cost": 2,
+    "weight": 1,
+    "melee": true,
+    "missile": true,
+    "slow": false,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "tags": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 1,
+      "athasian": false,
+      "material": "bone",
+      "coin_type": "BP",
+      "break_roll": "3"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

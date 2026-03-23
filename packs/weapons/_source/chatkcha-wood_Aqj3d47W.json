@@ -1,0 +1,57 @@
+{
+  "_id": "Aqj3d47W3FBUdO6M",
+  "_key": "!items!Aqj3d47W3FBUdO6M",
+  "name": "Chatkcha (Wood)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A thri-kreen throwing weapon — a crystal wedge that can be thrown up to 90 yards, and, due to its spin, returns to the thrower.</p><p><strong>Material:</strong> Wood (cost paid in <strong>Bits</strong>). <strong>Breakage:</strong> On a natural 1, automatically breaks on a natural 1 (no roll needed). Repair at 50% of original cost.</p>",
+    "damage": "1d6",
+    "cost": 10,
+    "weight": 1,
+    "melee": false,
+    "missile": true,
+    "slow": false,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 10,
+      "medium": 20,
+      "long": 30
+    },
+    "tags": [
+      {
+        "name": "Boomerang"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 1,
+      "athasian": false,
+      "material": "wood",
+      "coin_type": "Bits",
+      "break_roll": "auto"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

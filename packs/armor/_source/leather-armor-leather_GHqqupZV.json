@@ -1,0 +1,49 @@
+{
+  "_id": "GHqqupZVsYsHoKmk",
+  "_key": "!items!GHqqupZVsYsHoKmk",
+  "name": "Leather Armor (Leather)",
+  "type": "armor",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Cured leather scales and strips. The most common armour on Athas.</p><p><strong>Material:</strong> Leather (cost paid in <strong>Bits</strong>). <strong>Breakage:</strong> On a natural 20 hit against you, roll 1d6 — armor breaks on 1–4. Repair at 50% of original cost.</p>",
+    "type": "light",
+    "ac": {
+      "value": 7
+    },
+    "aac": {
+      "value": 12
+    },
+    "cost": 20,
+    "weight": 15,
+    "equipped": false,
+    "tags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-armor",
+      "material": "leather",
+      "coin_type": "Bits",
+      "break_roll": "4"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

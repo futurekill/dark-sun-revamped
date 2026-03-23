@@ -1,0 +1,57 @@
+{
+  "_id": "MLI5TW7fouRFISWz",
+  "_key": "!items!MLI5TW7fouRFISWz",
+  "name": "Alhulak (Stone)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A 5-foot length of rope with a four-bladed grappling hook on one end, secured to a 2-foot handle that can be used to block attacks.</p><p><strong>Material:</strong> Stone (cost paid in <strong>CP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1–4 on a 1d6 when a natural 1 is rolled to attack. Repair at 50% of original cost.</p>",
+    "damage": "1d6",
+    "cost": 8,
+    "weight": 5,
+    "melee": true,
+    "missile": true,
+    "slow": false,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 0,
+      "medium": 20,
+      "long": 40
+    },
+    "tags": [
+      {
+        "name": "Reach"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 1,
+      "athasian": false,
+      "material": "stone",
+      "coin_type": "CP",
+      "break_roll": "4"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

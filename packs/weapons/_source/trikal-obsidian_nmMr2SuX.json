@@ -1,0 +1,60 @@
+{
+  "_id": "nmMr2SuXf9WmhPGr",
+  "_key": "!items!nmMr2SuXf9WmhPGr",
+  "name": "Trikal (Obsidian)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A 6-foot polearm whose uppermost 12 inches consist of three blades projecting from a central shaft. A series of spikes weights the lower end.</p><p><strong>Material:</strong> Obsidian (cost paid in <strong>SP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1–2 on a 1d6 when a natural 1 is rolled to attack. Repair at 50% of original cost.</p>",
+    "damage": "1d8",
+    "cost": 18,
+    "weight": 7,
+    "melee": true,
+    "missile": false,
+    "slow": true,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "tags": [
+      {
+        "name": "Two-handed"
+      },
+      {
+        "name": "Reach"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 2,
+      "athasian": false,
+      "material": "obsidian",
+      "coin_type": "SP",
+      "break_roll": "2"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

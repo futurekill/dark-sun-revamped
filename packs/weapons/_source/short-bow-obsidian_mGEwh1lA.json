@@ -1,0 +1,57 @@
+{
+  "_id": "mGEwh1lARraiNjNU",
+  "_key": "!items!mGEwh1lARraiNjNU",
+  "name": "Short Bow (Obsidian)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A short, recurved bow suited to the harsh conditions of Athas. Commonly made of wood and sinew.</p><p><strong>Material:</strong> Obsidian (cost paid in <strong>SP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1–2 on a 1d6 when a natural 1 is rolled to attack. Repair at 50% of original cost.</p>",
+    "damage": "1d6",
+    "cost": 25,
+    "weight": 2,
+    "melee": false,
+    "missile": true,
+    "slow": true,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 50,
+      "medium": 100,
+      "long": 150
+    },
+    "tags": [
+      {
+        "name": "Two-handed"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 2,
+      "athasian": false,
+      "material": "obsidian",
+      "coin_type": "SP",
+      "break_roll": "2"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

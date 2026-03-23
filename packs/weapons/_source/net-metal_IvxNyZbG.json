@@ -1,0 +1,57 @@
+{
+  "_id": "IvxNyZbGHdDp2Pzc",
+  "_key": "!items!IvxNyZbGHdDp2Pzc",
+  "name": "Net (Metal)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A weighted net used to entangle opponents. On a successful hit the target is restrained until freed (Str check to escape). Metal is extraordinarily rare and precious on Athas.</p><p><strong>Material:</strong> Metal (cost paid in <strong>GP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1 on a 1d6 (steel never breaks). Repair at 50% of original cost.</p>",
+    "damage": "Special",
+    "cost": 15,
+    "weight": 5,
+    "melee": false,
+    "missile": true,
+    "slow": true,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 5,
+      "medium": 10,
+      "long": 10
+    },
+    "tags": [
+      {
+        "name": "Entangle"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 2,
+      "athasian": false,
+      "material": "metal",
+      "coin_type": "GP",
+      "break_roll": "1"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

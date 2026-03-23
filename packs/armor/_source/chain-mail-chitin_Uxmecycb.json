@@ -1,0 +1,49 @@
+{
+  "_id": "UxmecycbaM1IFsbt",
+  "_key": "!items!UxmecycbaM1IFsbt",
+  "name": "Chain Mail (Chitin)",
+  "type": "armor",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Interlocked plates of giant insect chitin. Lighter than bone mail, harder than leather.</p><p><strong>Material:</strong> Chitin (cost paid in <strong>SP</strong>). <strong>Breakage:</strong> On a natural 20 hit against you, roll 1d6 — armor breaks on 1–2. Repair at 50% of original cost.</p>",
+    "type": "heavy",
+    "ac": {
+      "value": 5
+    },
+    "aac": {
+      "value": 14
+    },
+    "cost": 60,
+    "weight": 30,
+    "equipped": false,
+    "tags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-armor",
+      "material": "chitin",
+      "coin_type": "SP",
+      "break_roll": "2"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

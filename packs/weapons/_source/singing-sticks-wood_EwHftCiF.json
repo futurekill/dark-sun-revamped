@@ -1,0 +1,57 @@
+{
+  "_id": "EwHftCiFIuANdq2a",
+  "_key": "!items!EwHftCiFIuANdq2a",
+  "name": "Singing Sticks (Wood)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Wielded in pairs. Each stick is made from springy, straight material, 1 inch in diameter and 2½ feet long, wider at the ends.</p><p><strong>Material:</strong> Wood (cost paid in <strong>Bits</strong>). <strong>Breakage:</strong> On a natural 1, automatically breaks on a natural 1 (no roll needed). Repair at 50% of original cost.</p>",
+    "damage": "1d4+1d4",
+    "cost": 5,
+    "weight": 2,
+    "melee": true,
+    "missile": false,
+    "slow": true,
+    "blunt": true,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "tags": [
+      {
+        "name": "Paired"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 2,
+      "athasian": false,
+      "material": "wood",
+      "coin_type": "Bits",
+      "break_roll": "auto"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

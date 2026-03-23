@@ -1,0 +1,57 @@
+{
+  "_id": "adLX4631ZdL3Greg",
+  "_key": "!items!adLX4631ZdL3Greg",
+  "name": "Crusher (Obsidian)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A spiked stone (or rarely, metal) ball at one end of a 20- to 25-foot flexible pole. A slow but devastating two-handed weapon.</p><p><strong>Material:</strong> Obsidian (cost paid in <strong>SP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1–2 on a 1d6 when a natural 1 is rolled to attack. Repair at 50% of original cost.</p>",
+    "damage": "1d10",
+    "cost": 20,
+    "weight": 10,
+    "melee": true,
+    "missile": false,
+    "slow": true,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "tags": [
+      {
+        "name": "Two-handed"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 2,
+      "athasian": false,
+      "material": "obsidian",
+      "coin_type": "SP",
+      "break_roll": "2"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

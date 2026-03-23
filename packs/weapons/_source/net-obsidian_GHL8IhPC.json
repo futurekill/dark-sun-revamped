@@ -1,0 +1,57 @@
+{
+  "_id": "GHL8IhPCSd0QeMrL",
+  "_key": "!items!GHL8IhPCSd0QeMrL",
+  "name": "Net (Obsidian)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A weighted net used to entangle opponents. On a successful hit the target is restrained until freed (Str check to escape).</p><p><strong>Material:</strong> Obsidian (cost paid in <strong>SP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1–2 on a 1d6 when a natural 1 is rolled to attack. Repair at 50% of original cost.</p>",
+    "damage": "Special",
+    "cost": 15,
+    "weight": 5,
+    "melee": false,
+    "missile": true,
+    "slow": true,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 5,
+      "medium": 10,
+      "long": 10
+    },
+    "tags": [
+      {
+        "name": "Entangle"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 2,
+      "athasian": false,
+      "material": "obsidian",
+      "coin_type": "SP",
+      "break_roll": "2"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

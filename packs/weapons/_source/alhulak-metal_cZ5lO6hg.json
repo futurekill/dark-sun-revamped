@@ -1,0 +1,57 @@
+{
+  "_id": "cZ5lO6hgPeSp94Yo",
+  "_key": "!items!cZ5lO6hgPeSp94Yo",
+  "name": "Alhulak (Metal)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A 5-foot length of rope with a four-bladed grappling hook on one end, secured to a 2-foot handle that can be used to block attacks. Metal is extraordinarily rare and precious on Athas.</p><p><strong>Material:</strong> Metal (cost paid in <strong>GP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1 on a 1d6 (steel never breaks). Repair at 50% of original cost.</p>",
+    "damage": "1d6",
+    "cost": 8,
+    "weight": 5,
+    "melee": true,
+    "missile": true,
+    "slow": false,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 0,
+      "medium": 20,
+      "long": 40
+    },
+    "tags": [
+      {
+        "name": "Reach"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 1,
+      "athasian": false,
+      "material": "metal",
+      "coin_type": "GP",
+      "break_roll": "1"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

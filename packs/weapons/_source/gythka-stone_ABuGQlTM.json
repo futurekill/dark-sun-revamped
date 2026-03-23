@@ -1,0 +1,57 @@
+{
+  "_id": "ABuGQlTMsIhIwPTK",
+  "_key": "!items!ABuGQlTMsIhIwPTK",
+  "name": "Gythka (Stone)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A thri-kreen polearm with two blades projecting from a central shaft. Thri-kreen pairs them in all four hands.</p><p><strong>Material:</strong> Stone (cost paid in <strong>CP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1–4 on a 1d6 when a natural 1 is rolled to attack. Repair at 50% of original cost.</p>",
+    "damage": "1d8",
+    "cost": 20,
+    "weight": 8,
+    "melee": true,
+    "missile": false,
+    "slow": true,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "tags": [
+      {
+        "name": "Two-handed"
+      }
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 2,
+      "athasian": false,
+      "material": "stone",
+      "coin_type": "CP",
+      "break_roll": "4"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

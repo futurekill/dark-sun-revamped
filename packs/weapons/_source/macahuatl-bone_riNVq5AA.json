@@ -1,0 +1,53 @@
+{
+  "_id": "riNVq5AAkye00TTu",
+  "_key": "!items!riNVq5AAkye00TTu",
+  "name": "Macahuatl (Bone)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A sword of solid material with sharp shards embedded along two edges. A classic Athasian weapon favoured by gladiators.</p><p><strong>Material:</strong> Bone (cost paid in <strong>BP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1–3 on a 1d6 when a natural 1 is rolled to attack. Repair at 50% of original cost.</p>",
+    "damage": "1d8",
+    "cost": 12,
+    "weight": 5,
+    "melee": true,
+    "missile": false,
+    "slow": false,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "tags": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 1,
+      "athasian": false,
+      "material": "bone",
+      "coin_type": "BP",
+      "break_roll": "3"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

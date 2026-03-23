@@ -1,0 +1,49 @@
+{
+  "_id": "ze8blrpROTTJ6YKk",
+  "_key": "!items!ze8blrpROTTJ6YKk",
+  "name": "Plate Mail (Metal)",
+  "type": "armor",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Full metal plate armour. Extraordinarily rare and expensive on Athas. <strong>Metal armor doubles water consumption</strong> and may impose dehydration penalties.</p><p><strong>Material:</strong> Metal (cost paid in <strong>GP</strong>). <strong>Breakage:</strong> On a natural 20 hit against you, roll 1d6 — armor breaks on 1. Repair at 50% of original cost.</p>",
+    "type": "heavy",
+    "ac": {
+      "value": 3
+    },
+    "aac": {
+      "value": 16
+    },
+    "cost": 100,
+    "weight": 40,
+    "equipped": false,
+    "tags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-armor",
+      "material": "metal",
+      "coin_type": "GP",
+      "break_roll": "1"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

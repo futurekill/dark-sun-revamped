@@ -1,0 +1,49 @@
+{
+  "_id": "3tl2JkkKBNikS5Mr",
+  "_key": "!items!3tl2JkkKBNikS5Mr",
+  "name": "Plate Mail (Chitin)",
+  "type": "armor",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Full body plates of hardened chitin. Expensive but provides excellent protection.</p><p><strong>Material:</strong> Chitin (cost paid in <strong>SP</strong>). <strong>Breakage:</strong> On a natural 20 hit against you, roll 1d6 — armor breaks on 1–2. Repair at 50% of original cost.</p>",
+    "type": "heavy",
+    "ac": {
+      "value": 3
+    },
+    "aac": {
+      "value": 16
+    },
+    "cost": 100,
+    "weight": 40,
+    "equipped": false,
+    "tags": [],
+    "quantity": {
+      "value": 1,
+      "max": 0
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-armor",
+      "material": "chitin",
+      "coin_type": "SP",
+      "break_roll": "2"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

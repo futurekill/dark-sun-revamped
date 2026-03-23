@@ -1,0 +1,53 @@
+{
+  "_id": "ynOoSoeWfzOhy8Gr",
+  "_key": "!items!ynOoSoeWfzOhy8Gr",
+  "name": "Longsword (Metal)",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A long, double-edged sword. Rare and precious when made of metal; bone and obsidian versions are more common on Athas. Metal is extraordinarily rare and precious on Athas.</p><p><strong>Material:</strong> Metal (cost paid in <strong>GP</strong>). <strong>Breakage:</strong> On a natural 1, breaks on 1 on a 1d6 (steel never breaks). Repair at 50% of original cost.</p>",
+    "damage": "1d8",
+    "cost": 20,
+    "weight": 5,
+    "melee": true,
+    "missile": false,
+    "slow": false,
+    "blunt": false,
+    "quantity": {
+      "value": 1,
+      "max": 0
+    },
+    "range": {
+      "short": 0,
+      "medium": 0,
+      "long": 0
+    },
+    "tags": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "dark-sun-revamped": {
+      "source": "dark-sun-weapons",
+      "hands": 1,
+      "athasian": false,
+      "material": "metal",
+      "coin_type": "GP",
+      "break_roll": "1"
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13",
+    "systemId": "ose",
+    "systemVersion": "1.0.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}
